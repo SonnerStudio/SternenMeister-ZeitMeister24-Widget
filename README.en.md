@@ -22,8 +22,8 @@ The official macOS desktop widget for **SternenMeister® Zeitmeister 24** (*Edit
 - **24-Hour Dial:** `18` top · `24` right · `6` bottom · `12` left
 - **60-fps Sweeping Second Hand** & live stacked date window
 - **Collector’s Box & Watch-Only Modes** (walnut & velvet presentation case with Platinum Vril crest)
-- **Resizable via Right-Click:** `2×2`, `3×3`, `4×4`, `5×5` · freely draggable on your desktop
-- **Built-in Update Check:** `Right-click → Check for Updates`
+- **Resizable via Right-Click:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · freely draggable on your desktop
+- **GitHub Update Function:** automatic check on launch and every 30 minutes (`version.json` + GitHub Releases). When an update is available, a gold ⬇︎ badge appears on the widget and the right-click menu shows **“⬇︎ Update available: install vX.Y.Z”** – one-click download, signature verification, replacement and automatic relaunch.
 
 > **Source Code Notice:** This repository distributes the compiled macOS binary package only. The source code is proprietary and confidential (see [LICENSE.md](LICENSE.md)).
 

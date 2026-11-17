@@ -22,8 +22,8 @@ Das offizielle macOS-Desktop-Widget der **SternenMeister® Zeitmeister 24** (*Ed
 - **24-Stunden-Zifferblatt:** `18` oben · `24` rechts · `6` unten · `12` links
 - **Gleitender 60-fps-Sekundenzeiger** & Live-Datumsfenster (`WOCHENTAG / TAG / MONAT`)
 - **Sammler-Box & Freigestellt-Modus** (Nussbaum-Samt-Etui mit Platin-Vril-Logo)
-- **Größen per Rechtsklick:** `2×2`, `3×3`, `4×4`, `5×5` · frei auf dem Schreibtisch verschiebbar
-- **Integrierte Update-Prüfung:** `Rechtsklick → Nach Updates suchen…`
+- **Größen per Rechtsklick:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · frei auf dem Schreibtisch verschiebbar
+- **GitHub-Update-Funktion:** automatische Prüfung beim Start und alle 30 Minuten (`version.json` + GitHub Releases). Ist ein Update verfügbar, erscheint ein goldenes ⬇︎-Abzeichen am Widget und im Rechtsklick-Menü der Eintrag **„⬇︎ Update verfügbar: vX.Y.Z installieren“** – Ein-Klick-Download, Signaturprüfung, Austausch und automatischer Neustart.
 
 > **Hinweis zum Quellcode:** Dieses Repository stellt ausschließlich das fertig kompilierte macOS-Widget bereit. Der Quellcode ist geheim und wird nicht veröffentlicht (siehe [LICENSE.md](LICENSE.md)).
 
