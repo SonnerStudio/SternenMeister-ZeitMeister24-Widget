@@ -12,7 +12,7 @@
 <p align="center">
   <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
   <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget · v2.1.0)</em>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget · v2.2.0)</em>
 </p>
 
 ## Übersicht
@@ -22,7 +22,7 @@ Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armb
   <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 auf dem macOS Schreibtisch" width="700" />
 </p>
 
-### Besonderheiten & Komplikationen (Stand v2.1.0):
+### Besonderheiten & Komplikationen (Stand v2.2.0):
 - **24-Stunden-Zifferblatt (drehbar in 90°-Schritten):** 1 Umlauf in 24 Stunden (`18 Uhr` oben, `24 Uhr` rechts, `6 Uhr` unten, `12 Uhr` links). Per Klick auf die Hauptkrone oder im Menü in `90°`-Schritten drehbar (`0° / 90° / 180° / 270°`) in fotorealistischer Hyper-Luxus-Qualität.
 - **Mechanische Zeiger & zentrales Datumsgehäuse:** Stunden- und Minutenzeiger in 18k Gelbgold mit Platin-Einlage, klassischer goldener Sekundenzeiger mit roter Spitze (v1.0-Design), zentral auf der Mittelachse montiertes mechanisches Datumsgehäuse (`Wochentag / Tag / Monat`) sowie sichtbares goldenes Tourbillon bei 6 Uhr.
 - **Elektronisches AAA-Multifunktionsdisplay (5 Modi per Klick auf die Gehäuseknöpfe):**
