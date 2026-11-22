@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
-  "build": 9,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.7.1)",
-  "notes": "Neu in v1.7.1:\n- Kardanisch immer gerade aufrechte 3D-Goldziffern (1–24) bei allen vier 90°-Stellungen (0°, 90°, 180°, 270°)\n- Enthält alle v1.7.0 Verbesserungen (freies Desktop-Verschieben + klickbare Knöpfe, wiederhergestelltes 6h-Tourbillon, pixelgenauer 13-Monde-Ring-Zeiger & AAA-Rückansicht)",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.7.1",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.7.1/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.8.0",
+  "build": 10,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.8.0)",
+  "notes": "Neu in v1.8.0:\n- Vollflächiges rundes Multifunktionsdisplay bis direkt an das ringförmige Gehäuse (r = 217) in allen 5 Modi (Panorama, Kompass, Koordinaten, Barometer mit großer 240°-Skala, 13-Monde mit großem Jahreskranz & rotem Ring)\n- Ausschließlich die 3 mechanischen Zeiger und das zentral aufgesetzte Datumsgehäuse laufen physisch über das gesamte Display\n- Kardanisch immer gerade aufrechte 3D-Goldziffern bei allen 90°-Stellungen (0° / 90° / 180° / 270°)",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.8.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.8.0/Zeitmeister24-Widget-macOS.zip"
 }
