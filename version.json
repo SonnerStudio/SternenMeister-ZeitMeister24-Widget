@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "build": 11,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.9.0)",
-  "notes": "Neu in v1.9.0:\n- Ein einziges, nahtloses, exakt zentriertes rundes Multifunktionsdisplay im sauberen ringförmigen Gehäuse (ohne alte Gehäusestummel, ohne Innen-/Außenkreis-Trennung, keine verdeckten Ziffern)\n- Einzelnes, zentriertes goldenes 6-Uhr-Tourbillon ohne Überlagerung\n- Immer gerade aufrechte 3D-Goldziffern (1–24) bei allen 90°-Stellungen (0° / 90° / 180° / 270°)\n- 100 % konzentrischer roter Ring-Zeiger genau um den aktuellen der 13 Jahresmonde (z. B. XII) + aktuelle römische Zahl\n- Extrem luxuriöses Platin-950- & 24k-Gold-Manufakturwerk (Kaliber SM-ZM24) in der Rückansicht unter Superfest-Saphirglas",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.9.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.9.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.9.1",
+  "build": 12,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.9.1)",
+  "notes": "Neu in v1.9.1:\n- Zusätzliche Großformate im Rechtsklick-Menü: 7×7 (760 pt), 8×8 (880 pt), 9×9 (1000 pt) und 10×10 (1120 pt)\n- Enthält alle v1.9.0 Verbesserungen (nahtloses Gesamtdisplay im sauberen ringförmigen Gehäuse, immer gerade 3D-Goldziffern bei 90°-Drehung, 100 % konzentrischer 13-Monde-Ring-Zeiger & Platin-950-/24k-Gold-Manufakturwerk)",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.9.1",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.9.1/Zeitmeister24-Widget-macOS.zip"
 }
