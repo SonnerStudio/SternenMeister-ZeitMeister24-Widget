@@ -12,7 +12,7 @@
 <p align="center">
   <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
   <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget · v1.7.0)</em>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget · v1.9.0)</em>
 </p>
 
 ## Übersicht
@@ -22,7 +22,7 @@ Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armb
   <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 auf dem macOS Schreibtisch" width="700" />
 </p>
 
-### Besonderheiten & Komplikationen (Stand v1.7.0):
+### Besonderheiten & Komplikationen (Stand v1.9.0):
 - **24-Stunden-Zifferblatt (drehbar in 90°-Schritten):** 1 Umlauf in 24 Stunden (`18 Uhr` oben, `24 Uhr` rechts, `6 Uhr` unten, `12 Uhr` links). Per Klick auf die Hauptkrone oder im Menü in `90°`-Schritten drehbar (`0° / 90° / 180° / 270°`) in fotorealistischer Hyper-Luxus-Qualität.
 - **Mechanische Zeiger & zentrales Datumsgehäuse:** Stunden- und Minutenzeiger in 18k Gelbgold mit Platin-Einlage, klassischer goldener Sekundenzeiger mit roter Spitze (v1.0-Design), zentral auf der Mittelachse montiertes mechanisches Datumsgehäuse (`Wochentag / Tag / Monat`) sowie sichtbares goldenes Tourbillon bei 6 Uhr.
 - **Elektronisches AAA-Multifunktionsdisplay (5 Modi per Klick auf die Gehäuseknöpfe):**
@@ -31,7 +31,7 @@ Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armb
   - **GNSS & Koordinaten:** Echte Geokoordinaten (`DMS`), Höhe und Zeitzone über macOS-Ortungsdienste (`CoreLocation`) mit automatischem Zeitzonen-Fallback.
   - **Live-Barometer:** Echtzeit-Luftdruck (`hPa`) über Open-Meteo Wetter-API inkl. klassischem **1-Wort-Wetterzustand** (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`).
   - **13-Monde-Jahresanzeige:** Alle 13 Monde des Jahres mit pixelgenauem Zeiger samt **rotem Ring** um den aktuellen Jahresmond sowie aktueller römischer Zahl (`I`–`XIII` bzw. `✦`).
-- **AAA-Rückansicht (Saphirglas-Werkboden):** Per Rechtsklick oder linkem Seitenknopf umschaltbar auf die Rückseite mit echtem Haute-Horlogerie-Manufakturwerk (`Kaliber SM-ZM24`), 4-Hz-Unruh-Reflex, skelettiertem 22k-Gold-Aufzugsrotor, Superfest-Saphirglas und graviertem 18k-Goldblech (`MICROCOMPUTER ACCESS`).
+- **AAA-Rückansicht (Saphirglas-Werkboden):** Per Rechtsklick oder linkem Seitenknopf umschaltbar auf die Rückseite mit extrem luxuriösem Platin-950- & 24k-Gold-Manufakturwerk (`Kaliber SM-ZM24`), 4-Hz-Unruh-Reflex, skelettiertem 22k-Gold-Aufzugsrotor, Superfest-Saphirglas und graviertem 18k-Goldblech (`MICROCOMPUTER ACCESS`).
 - **Hochglanz-Wurzelholz-Schatulle (`Edition 777 · Nr. 007 / 7777`):** Umschaltbar zwischen freigestellter Uhr und rahmenloser Klavierlack-Sammlerbox mit 3D-angewinkelter Live-Uhr auf schwarzem Kalbslederkissen.
 - **GitHub-Auto-Updater:** Automatische Prüfung alle 30 Minuten (`version.json` + GitHub Releases) mit goldenem ⬇︎-Abzeichen, Signaturprüfung und Ein-Klick-Installation.
 
