@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "build": 6,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.5.0)",
-  "notes": "Neu in v1.5.0:\n- Fotorealistisches Haute-Horlogerie-Manufakturwerk (Kaliber SM-ZM24) in der Rückansicht mit handgraviertem goldenem Unruhkloben, Schwanenhals-Feinregulierung, blauer Breguet-Spirale, Chatons mit Rubinen, Genfer Streifen, gebläuten Schrauben, live bewegten Akzenten & graviertem Mikrocomputer-Goldblech\n- Fehlerfreie, rahmenlose Hochglanz-Wurzelholz-Schatulle nach Luxus-Werbe-Standard mit leicht geneigtem Deckel, originalem SternenMeister-Wappen, 18k-Gold-Quadrantenscharnieren, gravierter Plakette (Edition 777 · Nr. 007 / 7777) und 3D-angewinkelter Live-Uhr auf dem Kalbslederkissen\n- 13-Monde-Jahresanzeige mit allen 13 Jahresmonden (I–XIII) und Zeiger mit rotem Ring um den aktuellen Mond des Jahres",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.5.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.5.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.6.0",
+  "build": 7,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.6.0)",
+  "notes": "Neu in v1.6.0:\n- Fotorealistische Hyper-Luxus-Qualität aus v1.1 für 24h-Ziffernring (inkl. 90°-Drehung), Barometer-Subdial (inkl. Live-Nadel & 1-Wort-Zustand) und 13-Monde-Subdial (inkl. Zeiger mit rotem Ring auf den aktuellen Jahresmond) wiederhergestellt\n- Alle Menüfunktionen (Multifunktionsdisplay-Modi & 90°-Drehung) direkt und zuverlässig im Rechtsklick-Menü anklickbar\n- Umgestaltete, markante 18k-Gold-Gehäuseknöpfe vollständig sichtbar & direkt per Mausklick mit Druck-Feedback bedienbar (Funktionsmodell)",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.6.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.6.0/Zeitmeister24-Widget-macOS.zip"
 }
