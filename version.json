@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "build": 16,
-  "released_at": "2026-11-22T05:40:00Z",
-  "title": "SternenMeister Zeitmeister 24 – Version 2.3.0 (Build 16 · Goldener Schnitt · 360°-Gold-Einfassung · Vital & Puls · Chronograph · Kosmos)",
-  "notes": "Ringsum sichtbare 360°-18k-Gold-Gehäuse-Einfassung & horologisch exakte Display-Zentrierung; Gesamtgestaltung nach dem Goldenen Schnitt (Phi = 1,618); lebendiges mechanisches Funktions-Tourbillon (Kaliber SM-ZM24 · 28.800 A/h · 4 Hz · 72h Gangreserve) direkt über der 6; sanfter 12°/s-Zeigerlauf (doppelt so schnell wie der Sekundenzeiger) bei 90°-Umstellung; hochglanzpoliertes 18k-Spiegelgold-Schild auf der Schatulle passend zu den Scharnieren; 8 Grande-Complication-Modi inkl. Vital & Puls (Pulsometer, Hämodynamik-Blutdruck, 60-FPS EKG/PPG-Pulswelle, interaktiver Tap-Pulsometer & 15s PPG-Scan), Rattrapante-Chronograph (Tachymeter & 15-Schläge-Pulsometer) sowie Kosmos & Sonnenlauf (Wahre Sonnenzeit, Zeitgleichung, Sternzeit & Planeten-Orrery).",
+  "version": "2.4.0",
+  "build": 17,
+  "released_at": "2026-11-22T06:24:00Z",
+  "title": "SternenMeister Zeitmeister 24 – Version 2.4.0 (Build 17 · Live-Wetter & 24h-Wetterverlauf · Sonnen-/Mondlauf · Goldener Schnitt)",
+  "notes": "Live-Wetter & 24h-Wetterverlauf aus der Open-Meteo Wetter-API direkt im Panorama- und Barometer-Display: Atmosphärischer Wolkenzug, Nebel, Regen, Schneefall & Gewitterleuchten, 24-Stunden-Temperatur- & Wetter-Verlaufskurve mit Live-Indikator, aktuellem Wetterstatus (°C, Zustand, H:/T:) sowie exakten Sonnenaufgangs- (☀︎↑) und Sonnenuntergangszeiten (☀︎↓) inklusive astronomischem Sonnen- und Mondlauf.",
   "min_macos": "14.0",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.3.0/Zeitmeister24-Widget-macOS.zip",
-  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.3.0"
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.4.0/Zeitmeister24-Widget-macOS.zip",
+  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.4.0"
 }
