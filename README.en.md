@@ -12,7 +12,7 @@
 <p align="center">
   <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
   <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget · v1.9.1)</em>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget · v2.0.0)</em>
 </p>
 
 ## Overview
@@ -22,7 +22,7 @@ The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury tim
   <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 on macOS Desktop" width="700" />
 </p>
 
-### Features & Complications (v1.9.1):
+### Features & Complications (v2.0.0):
 - **24-Hour Dial (90° Rotatable):** 1 revolution in 24 hours (`18:00` top, `24:00` right, `06:00` bottom, `12:00` left). Click the main crown or menu to rotate in `90°` increments (`0° / 90° / 180° / 270°`) in photorealistic luxury quality.
 - **Mechanical Hands & Central Date Housing:** 18k yellow gold hour and minute hands with platinum inlay, classic v1.0 gold second hand with red tip, center-axle mounted mechanical date housing (`Weekday / Day / Month`), and visible golden 6-o'clock tourbillon.
 - **AAA Electronic Multifunction Display (5 Modes via Clickable Side Pushers):**

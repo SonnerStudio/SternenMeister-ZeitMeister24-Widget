@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
-  "build": 12,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.9.1)",
-  "notes": "Neu in v1.9.1:\n- Zusätzliche Großformate im Rechtsklick-Menü: 7×7 (760 pt), 8×8 (880 pt), 9×9 (1000 pt) und 10×10 (1120 pt)\n- Enthält alle v1.9.0 Verbesserungen (nahtloses Gesamtdisplay im sauberen ringförmigen Gehäuse, immer gerade 3D-Goldziffern bei 90°-Drehung, 100 % konzentrischer 13-Monde-Ring-Zeiger & Platin-950-/24k-Gold-Manufakturwerk)",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.9.1",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.9.1/Zeitmeister24-Widget-macOS.zip"
+  "version": "2.0.0",
+  "build": 13,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v2.0.0)",
+  "notes": "Neu in v2.0.0:\n- Alle hochwertigen fotorealistischen Original-Elemente (24h-Zeiteinteilung & Goldziffern, Barometer-Subdial, 13-Monde-Subdial, 6h-Tourbillon, Original SternenMeister-Wappen) mittig-passgenau in einem einzigen, einheitlichen Gesamtdisplay vereint\n- Kardanisch immer gerade aufrechte 3D-Goldziffern bei allen 90°-Stellungen (0° / 90° / 180° / 270°)\n- Schwarzer Bodenstrich unter der Schatulle vollständig entfernt & Frontplakette in sattem 18k Gelbgold veredelt\n- Größen 2×2 bis 10×10, freies Verschieben + 6 klickbare 18k-Gold-Gehäuseknöpfe & Platin-950-/24k-Gold-Manufakturwerk in der Rückansicht",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.0.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.0.0/Zeitmeister24-Widget-macOS.zip"
 }
