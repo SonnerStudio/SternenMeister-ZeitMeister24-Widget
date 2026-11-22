@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "build": 8,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.7.0)",
-  "notes": "Neu in v1.7.0:\n- Freies Verschieben auf dem Desktop wieder vollständig aktiv bei gleichzeitig klickbaren 6 Gehäuseknöpfen (hitTest-Durchlass)\n- Schwarzer runder Schatten bei 6 Uhr entfernt: das originale goldene Tourbillon mit Rubin-Lagerstein ist wieder vollständig sichtbar\n- Pixelgenauer roter Ring-Zeiger auf dem 13-Monde-Jahreskranz (26°-Teilung -156°..+156°) + immer aktuelle römische Jahresmond-Zahl (I–XIII)\n- Dynamisch über den Horizont wandernde Sonne & 4-Phasen-Tag/Nacht-Himmel im AAA-Multifunktionsdisplay\n- Veredelte AAA-Rückansicht (Kaliber SM-ZM24) mit realistischem, skelettiertem 22k-Gold-Aufzugsrotor, 4-Hz-Unruh-Reflex, Superfest-Saphirglas & graviertem Mikrocomputer-Goldblech",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.7.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.7.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.7.1",
+  "build": 9,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.7.1)",
+  "notes": "Neu in v1.7.1:\n- Kardanisch immer gerade aufrechte 3D-Goldziffern (1–24) bei allen vier 90°-Stellungen (0°, 90°, 180°, 270°)\n- Enthält alle v1.7.0 Verbesserungen (freies Desktop-Verschieben + klickbare Knöpfe, wiederhergestelltes 6h-Tourbillon, pixelgenauer 13-Monde-Ring-Zeiger & AAA-Rückansicht)",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.7.1",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.7.1/Zeitmeister24-Widget-macOS.zip"
 }
