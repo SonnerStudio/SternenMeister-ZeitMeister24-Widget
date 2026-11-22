@@ -23,6 +23,8 @@ Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armb
 </p>
 
 ### Besonderheiten & Komplikationen:
+- **Multifunktionsdisplay (5 Modi per Klick auf die Seitenknöpfe):** Dynamischer 24h-Tag/Nacht-Himmel (`Panorama`), Präzisions-`Kompass` (Grundstellung 6h/12h → Nordweisung), `Koordinaten` über macOS-Ortung (`CoreLocation`), `Barometer` mit 1-Wort-Wetterzustand (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`) und `13-Monde`-Astronomie.
+- **Zentrales mechanisches Datumsgehäuse & rote Sekundenzeiger-Spitze:** Auf der Mittelachse montierte Datumsanzeige sowie 18k-Gelbgold-Zeiger mit Platineinlage und roter Spitze.
 - **24-Stunden-Zifferblatt:** 1 Umlauf in 24 Stunden (18 Uhr oben = Sonnenuntergang / Goldene Stunde, 24 Uhr rechts = Mitternacht, 6 Uhr unten = Sonnenaufgang, 12 Uhr links = Mittag).
 - **Drei Zeiger in 18k Gelbgold mit Platineinlage:** Stunden-, Minuten- und gleitender Sekundenzeiger sowie Zentralfutter in edlem Gelbgold mit handwerklich eingelegtem Platin.
 - **Live-Barometer über macOS-Zeitzone:** Automatischer Echtzeit-Abruf des lokalen atmosphärischen Luftdrucks (hPa) via Open-Meteo Wetter-API basierend auf Ihrer in macOS aktiven Zeitzone.

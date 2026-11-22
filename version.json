@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "build": 3,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.2.0)",
-  "notes": "Neu in v1.2.0:\n- Live-Barometer ermittelt über aktive macOS-Zeitzone & Wetter-API (Open-Meteo in hPa)\n- Astronomisch präzise Mondphasenanzeige mit Beleuchtungs- und Zyklusziffer (I–XIII)\n- Drei Zeiger in 18k Gelbgold mit glänzender Platineinlage\n- Zusätzliches Format 6×6 (640 pt)\n- Hochglanzlackiertes Wurzelholz-Sammleretui (Edition 777 · Nr. 007 / 7777) mit Klavierlack & Kalbslederkissen\n- Integrierter GitHub-Auto-Updater mit Rechtsklick-Menü & goldenem Abzeichen",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.2.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.2.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.3.0",
+  "build": 4,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.3.0)",
+  "notes": "Neu in v1.3.0:\n- Sekundenzeiger in 18k Gelbgold mit Platin-Einlage und roter Spitze\n- Zentral aufgesetztes mechanisches Datumsgehäuse auf der Mittelachse (Wochentag / Tag / Monat)\n- Umgestaltete, per Mausklick bedienbare seitliche Uhrenknöpfe (4 Chrono-Drücker, Krone, Seiten-Schieber)\n- Kristallklares elektronisches Multifunktionsdisplay mit 5 Modi: Panorama (dynamischer 24h-Tag/Nacht-Himmel), Präzisions-Kompass (Grundstellung 6h/12h → Nordweisung), GNSS-Koordinaten (macOS-Ortung), Barometer (inkl. 1-Wort-Wetterzustand STURM/REGEN/WECHSEL/SCHÖN/BESTÄNDIG) und 13-Monde-Astronomie",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.3.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.3.0/Zeitmeister24-Widget-macOS.zip"
 }

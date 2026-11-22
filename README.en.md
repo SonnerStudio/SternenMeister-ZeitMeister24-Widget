@@ -23,6 +23,8 @@ The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury tim
 </p>
 
 ### Features & Complications:
+- **Multifunction Display (5 Modes via Clickable Side Pushers):** Dynamic 24h Day/Night Sky (`Panorama`), Precision `Compass` (6h/12h home alignment → live North), `Coordinates` via macOS Location Services (`CoreLocation`), `Barometer` with classic 1-word weather condition (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`), and `13-Moons` Astronomy.
+- **Central Mechanical Date Housing & Red Second Tip:** Center-axle mounted date display plus 18k yellow gold hands with platinum inlay and red second-hand tip.
 - **24-Hour Dial:** 1 full revolution in 24 hours (18:00 at top = sunset / golden hour, 24:00 at right = midnight, 06:00 at bottom = sunrise, 12:00 at left = noon).
 - **Three Hands in 18k Yellow Gold with Platinum Inlay:** Hour, minute, and sweeping second hands plus center cap finished in rich yellow gold with hand-inlaid platinum cores.
 - **Live Barometer via macOS Timezone:** Real-time atmospheric pressure (hPa) retrieved via the Open-Meteo weather API based on your macOS system timezone.
