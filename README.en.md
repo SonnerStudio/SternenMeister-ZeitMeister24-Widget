@@ -12,38 +12,37 @@
 <p align="center">
   <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
   <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget)</em>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget · v1.7.0)</em>
 </p>
 
 ## Overview
-The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury timepiece of the new era as a high-precision, freely draggable simulation directly to your macOS desktop.
+The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury timepiece as a live interactive functional model directly to your macOS desktop — freely draggable, resizable from `2×2` to `6×6`, and operated directly via its 6 side case pushers.
 
 <p align="center">
   <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 on macOS Desktop" width="700" />
 </p>
 
-### Features & Complications:
-- **Multifunction Display (5 Modes via Clickable Side Pushers):** Dynamic 24h Day/Night Sky (`Panorama`), Precision `Compass` (6h/12h home alignment → live North), `Coordinates` via macOS Location Services (`CoreLocation`), `Barometer` with classic 1-word weather condition (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`), and `13-Moons` Astronomy.
-- **Central Mechanical Date Housing & Red Second Tip:** Center-axle mounted date display plus 18k yellow gold hands with platinum inlay and red second-hand tip.
-- **24-Hour Dial:** 1 full revolution in 24 hours (18:00 at top = sunset / golden hour, 24:00 at right = midnight, 06:00 at bottom = sunrise, 12:00 at left = noon).
-- **Three Hands in 18k Yellow Gold with Platinum Inlay:** Hour, minute, and sweeping second hands plus center cap finished in rich yellow gold with hand-inlaid platinum cores.
-- **Live Barometer via macOS Timezone:** Real-time atmospheric pressure (hPa) retrieved via the Open-Meteo weather API based on your macOS system timezone.
-- **Astronomical Moonphase Subdial:** Accurate lunar illumination percentage, phase calculation, and 13-Moons Roman cycle index (`I` through `XIII`).
-- **Collector's Presentation Box (Edition 777 · No. 007 / 7777):** Toggleable via right-click between mirror-finish burled walnut piano lacquer box with platinum Vril crest and stitched black calfskin cushions, or standalone watch.
-- **Sizes via Right-Click:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · freely draggable anywhere on your desktop.
-- **GitHub Auto-Updater:** Automatic checks upon launch and every 30 minutes (`version.json` + GitHub Releases). When an update is available, a gold ⬇︎ badge appears on the widget with a right-click **“⬇︎ Update available: install vX.Y.Z”** option featuring one-click install, signature verification, and auto-relaunch.
+### Features & Complications (v1.7.0):
+- **24-Hour Dial (90° Rotatable):** 1 revolution in 24 hours (`18:00` top, `24:00` right, `06:00` bottom, `12:00` left). Click the main crown or menu to rotate in `90°` increments (`0° / 90° / 180° / 270°`) in photorealistic luxury quality.
+- **Mechanical Hands & Central Date Housing:** 18k yellow gold hour and minute hands with platinum inlay, classic v1.0 gold second hand with red tip, center-axle mounted mechanical date housing (`Weekday / Day / Month`), and visible golden 6-o'clock tourbillon.
+- **AAA Electronic Multifunction Display (5 Modes via Clickable Side Pushers):**
+  - **Panorama:** Dynamic 24-hour day/night sky progression (sunrise, day, golden hour, starry Milky Way night with moving sun arc) and original SternenMeister Platinum-Vril crest.
+  - **Precision Compass:** Home alignment (hour hand to 6:00, minute & red-tip second hand to 12:00) transitioning dynamically to live North over a 360° compass rose.
+  - **GNSS & Coordinates:** Live macOS Location Services (`CoreLocation`) coordinates (`DMS`), elevation, and timezone with automatic timezone fallback.
+  - **Live Barometer:** Real-time atmospheric pressure (`hPa`) via Open-Meteo API with classic **1-word weather condition** (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`).
+  - **13-Moons Annual Display:** All 13 moons of the year with a precision **red-ring pointer** framing the current moon of the year and live Roman numeral (`I`–`XIII` or `✦`).
+- **AAA Caseback View (Sapphire Exhibition Back):** Toggle via right-click or left side pusher to inspect the photorealistic Haute-Horlogerie caliber (`SM-ZM24`) with 4 Hz balance sheen, skeletonized 22k gold rotor, sapphire crystal, and engraved 18k gold microcomputer access plate.
+- **High-Gloss Burled Walnut Collector's Box (`Edition 777 · No. 007 / 7777`):** Toggle between standalone watch and borderless piano-lacquer collector's box with 3D-angled live watch on stitched black calfskin cushion.
+- **GitHub Auto-Updater:** Checks every 30 minutes (`version.json` + GitHub Releases) with gold ⬇︎ badge, code-signature verification, and one-click installation.
 
 ---
 
 ## Installation
-
-### One-Click Installation (Recommended)
 1. Download the latest release from [GitHub Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest).
 2. Unpack the ZIP and double-click `install-widget.command`.
-3. The widget installs to `/Applications` and launches immediately.
+3. The widget installs to `/Applications` and launches automatically.
 
 ---
 
 ## License & Copyright
-Copyright © 2026 SonnerStudio. All rights reserved.
-Proprietary closed-source binary release. See [LICENSE.md](LICENSE.md) for details.
+Copyright © 2026 SonnerStudio. All rights reserved. Proprietary closed-source binary distribution. See [LICENSE.md](LICENSE.md) for details.
