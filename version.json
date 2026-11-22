@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
-  "build": 18,
-  "released_at": "2026-11-22T06:43:00Z",
-  "title": "SternenMeister Zeitmeister 24 – Version 2.4.1 (Build 18 · Stoppuhr mit Rundenzeiten · Live-Wetter & 24h-Wetterverlauf)",
-  "notes": "Vollständige Stoppuhr-Funktion im Rechtsklick-Menü und im Display (Start/Stopp/Pause, Rundenzeiten speichern, Rattrapante-Zwischenzeit/Split, Reset auf 00:00.00, Live-Anzeige sowohl in der Panorama-Ansicht als auch im Vollbild-Stoppuhr-Modus).",
+  "version": "2.4.2",
+  "build": 19,
+  "released_at": "2026-11-22T07:03:00Z",
+  "title": "SternenMeister Zeitmeister 24 – Version 2.4.2 (Build 19 · Fotorealistische Sonne & Zeitzonen-Mondlauf mit dynamischen Mondphasen)",
+  "notes": "Fotorealistische 3D-Sonne im Sonnenlauf (3D-Photosphäre mit Randverdunkelung, 16-strahliger Korona- & Diffraktionskranz, Mie-Streuungs-Aureole und höhenabhängige Farbtemperatur vom Morgenrot bis zum Zenit-Weißgold) sowie standort- und zeitzonengetreuer Mondlauf (inkl. Mondaufgang ☾↑ / Monduntergang ☾↓) mit dynamischer Mondphase, aschgrauem Erdschein, Kraterrelief und parallaktischer Sichelneigung immer dann, wenn der Mond über dem Horizont sichtbar ist.",
   "min_macos": "14.0",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.4.1/Zeitmeister24-Widget-macOS.zip",
-  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.4.1"
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.4.2/Zeitmeister24-Widget-macOS.zip",
+  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.4.2"
 }
