@@ -1,48 +1,42 @@
-# SternenMeister Zeitmeister 24 · macOS Desktop-Widget
+# SternenMeister® Zeitmeister 24 — macOS Desktop-Widget (`v2.3.0` · Build `16`)
 
-[![GitHub Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=d4af37)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=c5a059)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Visitor Counter](https://komarev.com/ghpvc/?username=SonnerStudio-ZeitMeister24&label=Besucher&color=e5c158&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
-[![License: Proprietary](https://img.shields.io/badge/Lizenz-Proprietär-red.svg?style=for-the-badge)](LICENSE.md)
-
-🇩🇪 **Deutsch** · [🇬🇧 Read in English](README.en.md)
+Offizielle Binär-Distribution des **SternenMeister® Zeitmeister 24** Hyper-Luxus-Desktop-Widgets für macOS (ab macOS 14 Sonoma).
 
 ---
 
-<p align="center">
-  <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
-  <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget · v2.2.0)</em>
-</p>
+## ✨ Neu in Version `2.3.0` (Build `16`)
 
-## Übersicht
-Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armbanduhr als interaktives Funktionsmodell direkt auf Ihren macOS-Schreibtisch — frei verschiebbar, skalierbar von `2×2` bis `10×10` und direkt über die 6 seitlichen Gehäuseknöpfe bedienbar.
-
-<p align="center">
-  <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 auf dem macOS Schreibtisch" width="700" />
-</p>
-
-### Besonderheiten & Komplikationen (Stand v2.2.0):
-- **24-Stunden-Zifferblatt (drehbar in 90°-Schritten):** 1 Umlauf in 24 Stunden (`18 Uhr` oben, `24 Uhr` rechts, `6 Uhr` unten, `12 Uhr` links). Per Klick auf die Hauptkrone oder im Menü in `90°`-Schritten drehbar (`0° / 90° / 180° / 270°`) in fotorealistischer Hyper-Luxus-Qualität.
-- **Mechanische Zeiger & zentrales Datumsgehäuse:** Stunden- und Minutenzeiger in 18k Gelbgold mit Platin-Einlage, klassischer goldener Sekundenzeiger mit roter Spitze (v1.0-Design), zentral auf der Mittelachse montiertes mechanisches Datumsgehäuse (`Wochentag / Tag / Monat`) sowie sichtbares goldenes Tourbillon bei 6 Uhr.
-- **Elektronisches AAA-Multifunktionsdisplay (5 Modi per Klick auf die Gehäuseknöpfe):**
-  - **Panorama:** Dynamischer 24-Stunden-Tag/Nacht-Verlauf (Sonnenaufgang, Tag, Goldene Stunde, Sternennacht mit Milchstraße & wandernder Sonne), Original SternenMeister-Wappen (Platin-Vril).
-  - **Präzisions-Kompass:** Grundstellung (Stundenzeiger 6 Uhr, Minuten- & Sekundenzeiger mit roter Spitze 12 Uhr) → dynamische Nordweisung über einer 360°-Kompassrose.
-  - **GNSS & Koordinaten:** Echte Geokoordinaten (`DMS`), Höhe und Zeitzone über macOS-Ortungsdienste (`CoreLocation`) mit automatischem Zeitzonen-Fallback.
-  - **Live-Barometer:** Echtzeit-Luftdruck (`hPa`) über Open-Meteo Wetter-API inkl. klassischem **1-Wort-Wetterzustand** (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`).
-  - **13-Monde-Jahresanzeige:** Alle 13 Monde des Jahres mit pixelgenauem Zeiger samt **rotem Ring** um den aktuellen Jahresmond sowie aktueller römischer Zahl (`I`–`XIII` bzw. `✦`).
-- **AAA-Rückansicht (Saphirglas-Werkboden):** Per Rechtsklick oder linkem Seitenknopf umschaltbar auf die Rückseite mit extrem luxuriösem Platin-950- & 24k-Gold-Manufakturwerk (`Kaliber SM-ZM24`), 4-Hz-Unruh-Reflex, skelettiertem 22k-Gold-Aufzugsrotor, Superfest-Saphirglas und graviertem 18k-Goldblech (`MICROCOMPUTER ACCESS`).
-- **Hochglanz-Wurzelholz-Schatulle (`Edition 777 · Nr. 007 / 7777`):** Umschaltbar zwischen freigestellter Uhr und rahmenloser Klavierlack-Sammlerbox mit 3D-angewinkelter Live-Uhr auf schwarzem Kalbslederkissen.
-- **GitHub-Auto-Updater:** Automatische Prüfung alle 30 Minuten (`version.json` + GitHub Releases) mit goldenem ⬇︎-Abzeichen, Signaturprüfung und Ein-Klick-Installation.
-
----
-
-## Installation
-1. Laden Sie die neueste Version von [GitHub Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest) herunter.
-2. Entpacken Sie die ZIP-Datei und doppelklicken Sie auf `install-widget.command`.
-3. Das Widget wird automatisch nach `/Applications` installiert und gestartet.
+1. **Ringsum sichtbare 360°-18k-Gold-Einfassung & horologische Präzisions-Zentrierung:**
+   - Das runde Vollflächen-Display sitzt zehntelmillimetergenau im Zentrum `(320,0, 325,0)` unter dem rundum sichtbaren, diamantgedrehten **360°-18k-Gold-Innenrand der Gehäuse-Einfassung** sowie einem vektor-scharfen 360°-Gold-Rehaut-Ring — sowohl in der Einzelansicht als auch in der geneigten Sammler-Schatulle ist der goldene Innenrand ringsum (links, rechts, oben, unten) zu 100 % sichtbar.
+2. **Gesamtgestaltung im Goldenen Schnitt ($\Phi = 1{,}618034$, $\varphi = 0{,}618034$):**
+   - **SternenMeister-Wappen (`Platin-Vril`)** und **zentrales mechanisches Datumsgehäuse (`Wochentag / Tag / Monat`)** als exakte Goldene Rechtecke.
+   - **Barometer- & 13-Monde-Hilfszifferblätter** ($R_{\text{sub}} = 50\text{ px}$) im Goldenen Schnitt positioniert ($\pm dx / dy = \Phi = 1{,}618$).
+3. **Lebendiges mechanisches Funktions-Tourbillon bei 6 Uhr (`Kaliber SM-ZM24`):**
+   - Etwas tiefer, direkt über der unteren Stundenziffer (`6`) mit edlem Abstand im Goldenen Schnitt ($y = cy + \varphi \cdot R_{\text{disp}}$, $R_{\text{tourb}} = R_{\text{sub}} \cdot \varphi$) platziert.
+   - Kontinuierliche **60-Sekunden-Käfigrotation ($6^\circ/\text{s}$)** synchron zum Sekundenrad mit rotem Rubin-Sekundenindex, im Inneren mit **4 Hz ($28\,800\text{ A/h}$)** oszillierender Platin-Schraubenunruh & Breguet-Spirale, pulsierendem Rubin-Chaton, **72h-Gangreserve-Bogen** und aktivem **`STELLWERK 12°/s`-Indikator**.
+4. **Sanfter $12^\circ/\text{s}$-Zeigerlauf (doppelt so schnell wie der Sekundenzeiger):**
+   - Bei jeder $90^\circ$-Drehung der Zeiteinteilung (sowie bei jedem Moduswechsel) gleiten die mechanischen Zeiger kontinuierlich mit exakt **$12{,}0^\circ/\text{s}$** ($2 \times 6{,}0^\circ/\text{s}$, d. h. $7{,}5\text{ s}$ für $90^\circ$) auf die neue Uhrzeit- bzw. Instrumentenposition, während die 24 Goldziffern kardanisch aufrecht bleiben.
+5. **Hochglanzpoliertes 18k-Spiegelgold-Schild auf der Sammler-Schatulle:**
+   - Das vordere Editions-Schild (`SternenMeister® / Zeitmeister 24 · Edition 777 / Nr. 007 / 7777`) besitzt exakt denselben hochglanzpolierten 18k-Gelbgold-Spiegelglanz (tiefe Bronze-/Espresso-Spiegelzonen, helle Champagner-Glanzbänder, 3D-Fase und 4 echte Eckschrauben) wie die hinteren Scharniere der Schatulle.
+6. **8 Hyper-Luxus Grande-Complication-Modi:**
+   - **`Panorama`:** Dynamischer 24h-Alpenhimmel, 24h-Zeiteinteilung, Live-Barometer (`Open-Meteo`), 13-Monde-Subdial mit rotem Ring (`#E62447`) & 6-Uhr-Funktions-Tourbillon.
+   - **`Vital & Puls` (Neu):** Biometrischer Pulsometer (`40–180 BPM` via Stundenzeiger) & Hämodynamik-Blutdruck (`80–180 mmHg` via Minutenzeiger), 60-FPS **P-Q-R-S-T EKG-/PPG-Pulswellen-Oszilloskop**, Live-Anzeige von **Puls (`BPM`)**, **Blutdruck (`SYS/DIA mmHg` + Klassifikation)**, **HRV (`ms RMSSD`)**, **SpO₂ (`%`)** und **Atemfrequenz (`/min`)**, inkl. interaktivem **Tap-Pulsometer** zur echten Live-Pulsmessung per Mausklick sowie **15s PPG-Vital-Scan**.
+   - **`Chronograph` (Neu):** Rattrapante-Schleppzeiger-Chronograph (`1/100 s`), Tachymeter (`60–400 km/h`) und 15-Schläge-Arzt-Pulsometer.
+   - **`Kosmos & Sonnenlauf` (Neu):** Wahre Ortszeit (`WOZ`), Astronomische Zeitgleichung ($\Delta t_{\text{EoT}}$), Lokale Sternzeit (`LST`), lokaler Sonnenaufgang/Zenit/Sonnenuntergang und heliozentrisches 6-Planeten-Orrery (`☿ ♀ ♁ ♂ ♃ ♄`).
+   - **`Kompass`:** 2-Phasen-Kinematik (`6h/12h` → $360^\circ$-Nordweisung).
+   - **`Koordinaten`:** `CoreLocation` macOS-Ortung im DMS-Format inkl. Höhe.
+   - **`Barometer`:** Große $240^\circ$-Meteorologie-Skala (`960–1080 hPa`).
+   - **`13-Monde`:** Großer 13-Monde-Astronomie-Zyklus (`I`–`XIII` / `✦`).
+7. **9 Größen (`2×2` bis `10×10`) & Platin-950/24k-Gold-Saphirglas-Werkboden.**
 
 ---
 
-## Lizenz & Urheberrecht
-Copyright © 2026 SonnerStudio. Alle Rechte vorbehalten. Proprietäre Binärverteilung ohne Quellcode. Details siehe [LICENSE.md](LICENSE.md).
+## 📦 Installation
+
+1. [`Zeitmeister24-Widget-macOS.zip`](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip) herunterladen und entpacken.
+2. `ZeitmeisterApp.app` in den Ordner `/Applications` bewegen und öffnen.
+3. Bereits installierte Versionen aktualisieren sich automatisch über den integrierten **GitHub-Auto-Updater** (Rechtsklick auf die Uhr → *Update installieren*).
+
+---
+
+*© 2026 SonnerStudio · SternenMeister® Manufaktur · Edition 777 (Nr. 007 / 7777) · Alle Rechte vorbehalten.*

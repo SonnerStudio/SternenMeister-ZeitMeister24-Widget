@@ -1,48 +1,27 @@
-# SternenMeister Zeitmeister 24 · macOS Desktop Widget
+# SternenMeister® Zeitmeister 24 — macOS Desktop Widget (`v2.3.0` · Build `16`)
 
-[![GitHub Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=d4af37)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=c5a059)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Visitor Counter](https://komarev.com/ghpvc/?username=SonnerStudio-ZeitMeister24&label=Visitors&color=e5c158&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE.md)
-
-[🇩🇪 Auf Deutsch lesen](README.md) · 🇬🇧 **English**
+Official binary distribution of the **SternenMeister® Zeitmeister 24** hyper-luxury macOS desktop timepiece (macOS 14 Sonoma or later).
 
 ---
 
-<p align="center">
-  <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
-  <br>
-  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget · v2.2.0)</em>
-</p>
+## ✨ What's New in Version `2.3.0` (Build `16`)
 
-## Overview
-The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury timepiece as a live interactive functional model directly to your macOS desktop — freely draggable, resizable from `2×2` to `10×10`, and operated directly via its 6 side case pushers.
-
-<p align="center">
-  <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 on macOS Desktop" width="700" />
-</p>
-
-### Features & Complications (v2.2.0):
-- **24-Hour Dial (90° Rotatable):** 1 revolution in 24 hours (`18:00` top, `24:00` right, `06:00` bottom, `12:00` left). Click the main crown or menu to rotate in `90°` increments (`0° / 90° / 180° / 270°`) in photorealistic luxury quality.
-- **Mechanical Hands & Central Date Housing:** 18k yellow gold hour and minute hands with platinum inlay, classic v1.0 gold second hand with red tip, center-axle mounted mechanical date housing (`Weekday / Day / Month`), and visible golden 6-o'clock tourbillon.
-- **AAA Electronic Multifunction Display (5 Modes via Clickable Side Pushers):**
-  - **Panorama:** Dynamic 24-hour day/night sky progression (sunrise, day, golden hour, starry Milky Way night with moving sun arc) and original SternenMeister Platinum-Vril crest.
-  - **Precision Compass:** Home alignment (hour hand to 6:00, minute & red-tip second hand to 12:00) transitioning dynamically to live North over a 360° compass rose.
-  - **GNSS & Coordinates:** Live macOS Location Services (`CoreLocation`) coordinates (`DMS`), elevation, and timezone with automatic timezone fallback.
-  - **Live Barometer:** Real-time atmospheric pressure (`hPa`) via Open-Meteo API with classic **1-word weather condition** (`STURM` / `REGEN` / `WECHSEL` / `SCHÖN` / `BESTÄNDIG`).
-  - **13-Moons Annual Display:** All 13 moons of the year with a precision **red-ring pointer** framing the current moon of the year and live Roman numeral (`I`–`XIII` or `✦`).
-- **AAA Caseback View (Sapphire Exhibition Back):** Toggle via right-click or left side pusher to inspect the ultra-luxury Platinum 950 & 24k Gold Haute-Horlogerie caliber (`SM-ZM24`) with 4 Hz balance sheen, skeletonized 22k gold rotor, sapphire crystal, and engraved 18k gold microcomputer access plate.
-- **High-Gloss Burled Walnut Collector's Box (`Edition 777 · No. 007 / 7777`):** Toggle between standalone watch and borderless piano-lacquer collector's box with 3D-angled live watch on stitched black calfskin cushion.
-- **GitHub Auto-Updater:** Checks every 30 minutes (`version.json` + GitHub Releases) with gold ⬇︎ badge, code-signature verification, and one-click installation.
+1. **Full 360° 18k-Gold Inner Bezel Rim & Horological Centering:**
+   - The unified full-bleed circular display is centered at `(320.0, 325.0)` beneath a continuous 360° diamond-turned 18k-gold inner bezel rim ("Einfassung") and vector gold rehaut ring, keeping the golden rim 100% visible all around in both standalone and collector's box views.
+2. **Golden Ratio ($\Phi = 1.618034$, $\varphi = 0.618034$) Architecture:**
+   - The **SternenMeister Crest (`Platinum Vril`)** and **central mechanical Date Housing (`Weekday / Day / Month`)** are proportioned as exact Golden Rectangles.
+   - The **Barometer & 13-Moons subdials** ($R_{\text{sub}} = 50\text{ px}$) follow the Golden Ratio ($\pm dx / dy = \Phi = 1.618$).
+3. **Live Functional 6-o'clock Mechanical Flying Tourbillon (`Caliber SM-ZM24`):**
+   - Positioned at the lower Golden Section ($y = cy + \varphi \cdot R_{\text{disp}}$, $R_{\text{tourb}} = R_{\text{sub}} \cdot \varphi$) directly above the 6-o'clock numeral with a crisp horological margin.
+   - Features continuous **60-second cage rotation ($6^\circ/\text{s}$)** with ruby seconds index, **4 Hz ($28,800\text{ vph}$)** oscillating platinum balance wheel & Breguet hairspring, pulsing ruby chaton, **72h power-reserve arc**, and live **`STELLWERK 12°/s`** differential gear indicator.
+4. **Smooth $12^\circ/\text{s}$ Hand Rotation (Twice the Speed of the Second Hand):**
+   - On every $90^\circ$ rotation of the 24h time division (and on mode transitions), the mechanical hands glide smoothly at **$12.0^\circ/\text{s}$** ($2 \times 6.0^\circ/\text{s}$, $7.5\text{ s}$ for $90^\circ$) to their new position while all 24 gold numerals remain upright.
+5. **Mirror-Polished 18k Gold Box Plaque Matching the Hinges:**
+   - The front edition plaque on the walnut burl collector's box features the exact same high-gloss mirror-polished 18k yellow-gold reflection profile (deep bronze/espresso mirror bands, champagne white-gold specular streaks, 3D bevel, and 4 corner screws) as the rear hinges.
+6. **8 Hyper-Luxury Grande Complication Modes:**
+   - **`Panorama`**, **`Vital & Puls`** (Pulsometer `40–180 BPM` via hour hand, Hemodynamic Blood Pressure `80–180 mmHg` via minute hand, 60-FPS P-Q-R-S-T ECG/PPG waveform, HRV, SpO₂, respiration rate, interactive **Tap-Pulsometer** & **15s PPG Vital Scan**), **`Chronograph`** (Rattrapante split-seconds, Tachymeter `60–400 km/h` & 15-beats Doctor's Pulsometer), **`Kosmos & Sonnenlauf`** (True Solar Time, Equation of Time, Local Sidereal Time, Sunrise/Solar Noon/Sunset & 6-planet heliocentric Orrery), **`Kompass`**, **`Koordinaten`**, **`Barometer`**, and **`13-Monde`**.
+7. **9 Widget Sizes (`2×2` to `10×10`) & Platinum-950/24k-Gold Sapphire Caseback.**
 
 ---
 
-## Installation
-1. Download the latest release from [GitHub Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest).
-2. Unpack the ZIP and double-click `install-widget.command`.
-3. The widget installs to `/Applications` and launches automatically.
-
----
-
-## License & Copyright
-Copyright © 2026 SonnerStudio. All rights reserved. Proprietary closed-source binary distribution. See [LICENSE.md](LICENSE.md) for details.
+*© 2026 SonnerStudio · SternenMeister® Manufaktur · Edition 777 (No. 007 / 7777) · All rights reserved.*
