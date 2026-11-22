@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "build": 4,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.3.0)",
-  "notes": "Neu in v1.3.0:\n- Sekundenzeiger in 18k Gelbgold mit Platin-Einlage und roter Spitze\n- Zentral aufgesetztes mechanisches Datumsgehäuse auf der Mittelachse (Wochentag / Tag / Monat)\n- Umgestaltete, per Mausklick bedienbare seitliche Uhrenknöpfe (4 Chrono-Drücker, Krone, Seiten-Schieber)\n- Kristallklares elektronisches Multifunktionsdisplay mit 5 Modi: Panorama (dynamischer 24h-Tag/Nacht-Himmel), Präzisions-Kompass (Grundstellung 6h/12h → Nordweisung), GNSS-Koordinaten (macOS-Ortung), Barometer (inkl. 1-Wort-Wetterzustand STURM/REGEN/WECHSEL/SCHÖN/BESTÄNDIG) und 13-Monde-Astronomie",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.3.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.3.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.4.0",
+  "build": 5,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.4.0)",
+  "notes": "Neu in v1.4.0:\n- Original SternenMeister-Wappen (Adler, 5 Sterne, Platin-Vril) gestochen scharf im AAA-Display wiederhergestellt\n- Hochauflösende AAA-Tageszeiten-Panoramen (Sonnenaufgang, Tag, Sonnenuntergang, Sternennacht mit Milchstraße)\n- Gesamtes rundes Inneres inkl. 24h-Teilung & Ziffern (1–24) als dynamisches Smartwatch-Display in 90°-Schritten drehbar (Krone / Menü)\n- Rückansicht der Uhr im Menü & per Seitenknopf: Superfest-Saphirglasboden mit live laufendem Kaliber SM-ZM24 (Unruh 4 Hz, Zahnräder, 22k-Rotor) & graviertem Mikrocomputer-Goldblech\n- 13-Monde-Anzeige mit allen 13 Monden und Zeiger mit rotem Ring um den aktuellen Mond\n- Sekundenzeiger & Rotgestaltung exakt wie Version 1.0",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.4.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.4.0/Zeitmeister24-Widget-macOS.zip"
 }
