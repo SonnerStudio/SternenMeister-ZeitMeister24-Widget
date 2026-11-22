@@ -1,48 +1,47 @@
-<div align="center">
+# SternenMeister Zeitmeister 24 · macOS Desktop-Widget
 
-# SternenMeister® · Zeitmeister 24 — macOS Widget (Edition 777)
+[![GitHub Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=d4af37)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
+[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=c5a059)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=SonnerStudio-ZeitMeister24&label=Besucher&color=e5c158&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
+[![License: Proprietary](https://img.shields.io/badge/Lizenz-Proprietär-red.svg?style=for-the-badge)](LICENSE.md)
 
-**„Mehr als Zeit. Ein Universum am Handgelenk.“**
-
-🌐 **Sprache / Language:** **Deutsch** · [English Version](README.en.md)
-
-[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=D4AF37&label=Downloads)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Latest Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=1B3B5A&label=Version)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SonnerStudio.SternenMeister-ZeitMeister24-Widget&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
-[![License](https://img.shields.io/badge/Lizenz-Propriet%C3%A4r%20(All%20Rights%20Reserved)-8A6E2A?style=for-the-badge)](LICENSE.md)
-
-</div>
+🇩🇪 **Deutsch** · [🇬🇧 Read in English](README.en.md)
 
 ---
 
-## Überblick
+<p align="center">
+  <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
+  <br>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop-Widget)</em>
+</p>
 
-Das offizielle macOS-Desktop-Widget der **SternenMeister® Zeitmeister 24** (*Edition 777 · Nr. 007 / 7777*):
+## Übersicht
+Das **SternenMeister Zeitmeister 24 Desktop-Widget** bringt die Hyper-Luxus-Armbanduhr der neuen Zeit als hochpräzise, frei bewegliche Simulation direkt auf Ihren macOS-Schreibtisch.
 
-- **24-Stunden-Zifferblatt:** `18` oben · `24` rechts · `6` unten · `12` links
-- **Gleitender 60-fps-Sekundenzeiger** & Live-Datumsfenster (`WOCHENTAG / TAG / MONAT`)
-- **Sammler-Box & Freigestellt-Modus** (Nussbaum-Samt-Etui mit Platin-Vril-Logo)
-- **Größen per Rechtsklick:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · frei auf dem Schreibtisch verschiebbar
-- **GitHub-Update-Funktion:** automatische Prüfung beim Start und alle 30 Minuten (`version.json` + GitHub Releases). Ist ein Update verfügbar, erscheint ein goldenes ⬇︎-Abzeichen am Widget und im Rechtsklick-Menü der Eintrag **„⬇︎ Update verfügbar: vX.Y.Z installieren“** – Ein-Klick-Download, Signaturprüfung, Austausch und automatischer Neustart.
+<p align="center">
+  <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 auf dem macOS Schreibtisch" width="700" />
+</p>
 
-> **Hinweis zum Quellcode:** Dieses Repository stellt ausschließlich das fertig kompilierte macOS-Widget bereit. Der Quellcode ist geheim und wird nicht veröffentlicht (siehe [LICENSE.md](LICENSE.md)).
-
----
-
-## Installation (macOS 14+)
-
-### Option 1 · Ein-Klick-Installer
-1. Lade `install-widget.command` (oder die aktuelle Version unter [Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest)) herunter.
-2. Doppelklick auf `install-widget.command` (bei Gatekeeper-Hinweis: Rechtsklick → *Öffnen*).
-3. Das Skript lädt die aktuelle `ZeitmeisterApp.app`, installiert sie nach `/Applications/` und registriert das Widget.
-
-### Option 2 · Manuell
-1. `Zeitmeister24-Widget-macOS.zip` aus den [Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest) herunterladen und entpacken.
-2. `ZeitmeisterApp.app` in den Ordner **Programme (`/Applications`)** ziehen und starten.
+### Besonderheiten & Komplikationen:
+- **24-Stunden-Zifferblatt:** 1 Umlauf in 24 Stunden (18 Uhr oben = Sonnenuntergang / Goldene Stunde, 24 Uhr rechts = Mitternacht, 6 Uhr unten = Sonnenaufgang, 12 Uhr links = Mittag).
+- **Drei Zeiger in 18k Gelbgold mit Platineinlage:** Stunden-, Minuten- und gleitender Sekundenzeiger sowie Zentralfutter in edlem Gelbgold mit handwerklich eingelegtem Platin.
+- **Live-Barometer über macOS-Zeitzone:** Automatischer Echtzeit-Abruf des lokalen atmosphärischen Luftdrucks (hPa) via Open-Meteo Wetter-API basierend auf Ihrer in macOS aktiven Zeitzone.
+- **Astronomische Mondphasenanzeige:** Exakte Berechnung von Mondphase, Beleuchtungsprozentsatz und aktueller 13-Monde-Zyklusziffer (`I` bis `XIII`).
+- **Sammler-Etui (Edition 777 · Nr. 007 / 7777):** Umschaltbar per Rechtsklick zwischen hochglanzlackiertem Wurzelholz-Etui mit Klavierlack, Platin-Vril-Wappen und schwarzem Kalbsleder oder freigestellter Uhr.
+- **Größen per Rechtsklick:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · frei auf dem Schreibtisch verschiebbar.
+- **GitHub-Update-Funktion:** Automatische Prüfung beim Start und alle 30 Minuten (`version.json` + GitHub Releases). Ist ein Update verfügbar, erscheint ein goldenes ⬇︎-Abzeichen am Widget und im Rechtsklick-Menü der Eintrag **„⬇︎ Update verfügbar: vX.Y.Z installieren“** mit Ein-Klick-Installation und automatischem Neustart.
 
 ---
 
-## Lizenz
+## Installation
 
-Alle Rechte vorbehalten. Details siehe [LICENSE.md](LICENSE.md).  
-© 2026 SonnerStudio · Jan Friske (Lommes)
+### Ein-Klick-Installation (Empfohlen)
+1. Laden Sie die neueste Version von [GitHub Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest) herunter.
+2. Entpacken Sie die ZIP-Datei und doppelklicken Sie auf `install-widget.command`.
+3. Das Widget wird automatisch nach `/Applications` installiert und gestartet.
+
+---
+
+## Lizenz & Urheberrecht
+Copyright © 2026 SonnerStudio. Alle Rechte vorbehalten.
+Die Software ist urheberrechtlich geschützt. Der Quellcode ist vertraulich und nicht öffentlich zugänglich. Einzelheiten siehe [LICENSE.md](LICENSE.md).

@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "build": 2,
-  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.1.0)",
-  "notes": "Neu: 6×6-Format, hochglanzlackiertes Wurzelholz-Sammleretui mit drei Lederkissen, integrierte GitHub-Update-Funktion (Rechtsklick-Menü mit Update-Symbol, automatische Prüfung alle 30 Minuten, Ein-Klick-Installation mit Neustart).",
-  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.1.0",
-  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.1.0/Zeitmeister24-Widget-macOS.zip"
+  "version": "1.2.0",
+  "build": 3,
+  "title": "SternenMeister Zeitmeister 24 · Edition 777 (v1.2.0)",
+  "notes": "Neu in v1.2.0:\n- Live-Barometer ermittelt über aktive macOS-Zeitzone & Wetter-API (Open-Meteo in hPa)\n- Astronomisch präzise Mondphasenanzeige mit Beleuchtungs- und Zyklusziffer (I–XIII)\n- Drei Zeiger in 18k Gelbgold mit glänzender Platineinlage\n- Zusätzliches Format 6×6 (640 pt)\n- Hochglanzlackiertes Wurzelholz-Sammleretui (Edition 777 · Nr. 007 / 7777) mit Klavierlack & Kalbslederkissen\n- Integrierter GitHub-Auto-Updater mit Rechtsklick-Menü & goldenem Abzeichen",
+  "releaseURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v1.2.0",
+  "downloadURL": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v1.2.0/Zeitmeister24-Widget-macOS.zip"
 }

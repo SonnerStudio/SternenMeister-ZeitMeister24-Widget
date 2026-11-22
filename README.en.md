@@ -1,48 +1,47 @@
-<div align="center">
+# SternenMeister Zeitmeister 24 · macOS Desktop Widget
 
-# SternenMeister® · Zeitmeister 24 — macOS Widget (Edition 777)
+[![GitHub Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=d4af37)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
+[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=c5a059)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=SonnerStudio-ZeitMeister24&label=Visitors&color=e5c158&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE.md)
 
-**“More than time. A universe on your wrist.”**
-
-🌐 **Language / Sprache:** [Deutsche Version](README.md) · **English**
-
-[![Downloads](https://img.shields.io/github/downloads/SonnerStudio/SternenMeister-ZeitMeister24-Widget/total?style=for-the-badge&color=D4AF37&label=Downloads)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases)
-[![Latest Release](https://img.shields.io/github/v/release/SonnerStudio/SternenMeister-ZeitMeister24-Widget?style=for-the-badge&color=1B3B5A&label=Version)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SonnerStudio.SternenMeister-ZeitMeister24-Widget&style=for-the-badge)](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget)
-[![License](https://img.shields.io/badge/License-Proprietary%20(All%20Rights%20Reserved)-8A6E2A?style=for-the-badge)](LICENSE.md)
-
-</div>
+[🇩🇪 Auf Deutsch lesen](README.md) · 🇬🇧 **English**
 
 ---
+
+<p align="center">
+  <img src="assets/widget-preview.png" alt="SternenMeister Zeitmeister 24 Desktop Widget" width="360" />
+  <br>
+  <em>SternenMeister Zeitmeister 24 · Edition 777 (Live macOS Desktop Widget)</em>
+</p>
 
 ## Overview
+The **SternenMeister Zeitmeister 24 Desktop Widget** brings the hyper-luxury timepiece of the new era as a high-precision, freely draggable simulation directly to your macOS desktop.
 
-The official macOS desktop widget for **SternenMeister® Zeitmeister 24** (*Edition 777 · Nr. 007 / 7777*):
+<p align="center">
+  <img src="assets/widget-desktop-preview.jpg" alt="Zeitmeister 24 on macOS Desktop" width="700" />
+</p>
 
-- **24-Hour Dial:** `18` top · `24` right · `6` bottom · `12` left
-- **60-fps Sweeping Second Hand** & live stacked date window
-- **Collector’s Box & Watch-Only Modes** (walnut & velvet presentation case with Platinum Vril crest)
-- **Resizable via Right-Click:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · freely draggable on your desktop
-- **GitHub Update Function:** automatic check on launch and every 30 minutes (`version.json` + GitHub Releases). When an update is available, a gold ⬇︎ badge appears on the widget and the right-click menu shows **“⬇︎ Update available: install vX.Y.Z”** – one-click download, signature verification, replacement and automatic relaunch.
-
-> **Source Code Notice:** This repository distributes the compiled macOS binary package only. The source code is proprietary and confidential (see [LICENSE.md](LICENSE.md)).
-
----
-
-## Installation (macOS 14+)
-
-### Option 1 · One-Click Installer
-1. Download `install-widget.command` (or the latest release from [Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest)).
-2. Double-click `install-widget.command` (if Gatekeeper prompts, Right-click → *Open*).
-3. The script downloads the latest `ZeitmeisterApp.app`, installs it into `/Applications/`, and registers the WidgetKit extension.
-
-### Option 2 · Manual
-1. Download and unzip `Zeitmeister24-Widget-macOS.zip` from [Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest).
-2. Move `ZeitmeisterApp.app` into `/Applications` and launch it.
+### Features & Complications:
+- **24-Hour Dial:** 1 full revolution in 24 hours (18:00 at top = sunset / golden hour, 24:00 at right = midnight, 06:00 at bottom = sunrise, 12:00 at left = noon).
+- **Three Hands in 18k Yellow Gold with Platinum Inlay:** Hour, minute, and sweeping second hands plus center cap finished in rich yellow gold with hand-inlaid platinum cores.
+- **Live Barometer via macOS Timezone:** Real-time atmospheric pressure (hPa) retrieved via the Open-Meteo weather API based on your macOS system timezone.
+- **Astronomical Moonphase Subdial:** Accurate lunar illumination percentage, phase calculation, and 13-Moons Roman cycle index (`I` through `XIII`).
+- **Collector's Presentation Box (Edition 777 · No. 007 / 7777):** Toggleable via right-click between mirror-finish burled walnut piano lacquer box with platinum Vril crest and stitched black calfskin cushions, or standalone watch.
+- **Sizes via Right-Click:** `2×2`, `3×3`, `4×4`, `5×5`, `6×6` · freely draggable anywhere on your desktop.
+- **GitHub Auto-Updater:** Automatic checks upon launch and every 30 minutes (`version.json` + GitHub Releases). When an update is available, a gold ⬇︎ badge appears on the widget with a right-click **“⬇︎ Update available: install vX.Y.Z”** option featuring one-click install, signature verification, and auto-relaunch.
 
 ---
 
-## License
+## Installation
 
-All rights reserved. See [LICENSE.md](LICENSE.md) for details.  
-© 2026 SonnerStudio · Jan Friske (Lommes)
+### One-Click Installation (Recommended)
+1. Download the latest release from [GitHub Releases](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest).
+2. Unpack the ZIP and double-click `install-widget.command`.
+3. The widget installs to `/Applications` and launches immediately.
+
+---
+
+## License & Copyright
+Copyright © 2026 SonnerStudio. All rights reserved.
+Proprietary closed-source binary release. See [LICENSE.md](LICENSE.md) for details.
