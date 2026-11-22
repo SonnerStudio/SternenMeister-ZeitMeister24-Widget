@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "build": 17,
-  "released_at": "2026-11-22T06:24:00Z",
-  "title": "SternenMeister Zeitmeister 24 – Version 2.4.0 (Build 17 · Live-Wetter & 24h-Wetterverlauf · Sonnen-/Mondlauf · Goldener Schnitt)",
-  "notes": "Live-Wetter & 24h-Wetterverlauf aus der Open-Meteo Wetter-API direkt im Panorama- und Barometer-Display: Atmosphärischer Wolkenzug, Nebel, Regen, Schneefall & Gewitterleuchten, 24-Stunden-Temperatur- & Wetter-Verlaufskurve mit Live-Indikator, aktuellem Wetterstatus (°C, Zustand, H:/T:) sowie exakten Sonnenaufgangs- (☀︎↑) und Sonnenuntergangszeiten (☀︎↓) inklusive astronomischem Sonnen- und Mondlauf.",
+  "version": "2.4.1",
+  "build": 18,
+  "released_at": "2026-11-22T06:43:00Z",
+  "title": "SternenMeister Zeitmeister 24 – Version 2.4.1 (Build 18 · Stoppuhr mit Rundenzeiten · Live-Wetter & 24h-Wetterverlauf)",
+  "notes": "Vollständige Stoppuhr-Funktion im Rechtsklick-Menü und im Display (Start/Stopp/Pause, Rundenzeiten speichern, Rattrapante-Zwischenzeit/Split, Reset auf 00:00.00, Live-Anzeige sowohl in der Panorama-Ansicht als auch im Vollbild-Stoppuhr-Modus).",
   "min_macos": "14.0",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.4.0/Zeitmeister24-Widget-macOS.zip",
-  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.4.0"
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.4.1/Zeitmeister24-Widget-macOS.zip",
+  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.4.1"
 }
