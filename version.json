@@ -1,11 +1,17 @@
 {
+  "version": "2.5.0",
   "latest_version": "2.5.0",
   "build": 20,
+  "released_at": "2026-11-23T07:40:00Z",
   "release_date": "2026-11-23",
   "min_macos": "14.0",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip",
+  "title": "SternenMeister Zeitmeister 24 – Version 2.5.0 (Globale Mehrsprachigkeits-Edition)",
   "title_de": "SternenMeister Zeitmeister 24 – Version 2.5.0 (Globale Mehrsprachigkeits-Edition)",
   "title_en": "SternenMeister Zeitmeister 24 – Version 2.5.0 (Global Multi-Language Edition)",
+  "notes": "• 8 kulturell abgestimmte Editionen: Deutsch, Jiddisch, Hebräisch, Russisch, Chinesisch, Englisch, Arabisch, Französisch\\n• Individuelle Wappenplaketten mit poliertem Platin-Vril und Goldrelief\\n• Kulturelle 24h-Ziffernkränze (arabisch-indisch, hebräisch mit Geresh/Gershayim, chinesisch, lateinisch)\\n• Vollständige Menü-Shorttips (Tooltips) auf allen Menüeinträgen und Modi\\n• Kalenderfenster auf 6 Uhr und Barometer-Einheiten landestypisch lokalisiert",
   "notes_de": "• 8 kulturell abgestimmte Editionen: Deutsch, Jiddisch, Hebräisch, Russisch, Chinesisch, Englisch, Arabisch, Französisch\\n• Individuelle Wappenplaketten mit poliertem Platin-Vril und Goldrelief\\n• Kulturelle 24h-Ziffernkränze (arabisch-indisch, hebräisch mit Geresh/Gershayim, chinesisch, lateinisch)\\n• Vollständige Menü-Shorttips (Tooltips) auf allen Menüeinträgen und Modi\\n• Kalenderfenster auf 6 Uhr und Barometer-Einheiten landestypisch lokalisiert",
-  "notes_en": "• 8 culturally tailored editions: German, Yiddish, Hebrew, Russian, Chinese, English, Arabic, French\\n• Dedicated heraldic crest plaques with polished platinum Vril and 3D gold relief\\n• Culturally authentic 24h numeral rings (Eastern Arabic, Hebrew with Geresh/Gershayim, Chinese, Latin)\\n• Comprehensive native context menu Shorttips across all options and modes\\n• Localized 6 o'clock calendar window and barometer units (hPa, гПа, 百帕, هكتوباسكال)"
+  "notes_en": "• 8 culturally tailored editions: German, Yiddish, Hebrew, Russian, Chinese, English, Arabic, French\\n• Dedicated heraldic crest plaques with polished platinum Vril and 3D gold relief\\n• Culturally authentic 24h numeral rings (Eastern Arabic, Hebrew with Geresh/Gershayim, Chinese, Latin)\\n• Comprehensive native context menu Shorttips across all options and modes\\n• Localized 6 o'clock calendar window and barometer units (hPa, гПа, 百帕, هكتوباسكال)",
+  "asset_name": "Zeitmeister24-Widget-macOS.zip",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.0/Zeitmeister24-Widget-macOS.zip",
+  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.5.0"
 }
