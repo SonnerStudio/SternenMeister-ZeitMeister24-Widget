@@ -1,41 +1,55 @@
-# SternenMeister® Zeitmeister 24 — macOS Desktop-Widget (`v2.3.0` · Build `16`)
+# SternenMeister® Zeitmeister 24 — macOS Desktop-Widget (`v2.5.0`)
 
-Offizielle Binär-Distribution des **SternenMeister® Zeitmeister 24** Hyper-Luxus-Desktop-Widgets für macOS (ab macOS 14 Sonoma).
+![SternenMeister Zeitmeister 24 - Global Multi-Language Editions](assets/hero-multilanguage-editions.png)
 
----
+<div align="center">
 
-## ✨ Neu in Version `2.3.0` (Build `16`)
+🌐 **Sprache wählen / Select Language / Choisissez la langue / Выберите язык / 选择语言 / اختر اللغة / בחר שפה:**
 
-1. **Ringsum sichtbare 360°-18k-Gold-Einfassung & horologische Präzisions-Zentrierung:**
-   - Das runde Vollflächen-Display sitzt zehntelmillimetergenau im Zentrum `(320,0, 325,0)` unter dem rundum sichtbaren, diamantgedrehten **360°-18k-Gold-Innenrand der Gehäuse-Einfassung** sowie einem vektor-scharfen 360°-Gold-Rehaut-Ring — sowohl in der Einzelansicht als auch in der geneigten Sammler-Schatulle ist der goldene Innenrand ringsum (links, rechts, oben, unten) zu 100 % sichtbar.
-2. **Gesamtgestaltung im Goldenen Schnitt ($\Phi = 1{,}618034$, $\varphi = 0{,}618034$):**
-   - **SternenMeister-Wappen (`Platin-Vril`)** und **zentrales mechanisches Datumsgehäuse (`Wochentag / Tag / Monat`)** als exakte Goldene Rechtecke.
-   - **Barometer- & 13-Monde-Hilfszifferblätter** ($R_{\text{sub}} = 50\text{ px}$) im Goldenen Schnitt positioniert ($\pm dx / dy = \Phi = 1{,}618$).
-3. **Lebendiges mechanisches Funktions-Tourbillon bei 6 Uhr (`Kaliber SM-ZM24`):**
-   - Etwas tiefer, direkt über der unteren Stundenziffer (`6`) mit edlem Abstand im Goldenen Schnitt ($y = cy + \varphi \cdot R_{\text{disp}}$, $R_{\text{tourb}} = R_{\text{sub}} \cdot \varphi$) platziert.
-   - Kontinuierliche **60-Sekunden-Käfigrotation ($6^\circ/\text{s}$)** synchron zum Sekundenrad mit rotem Rubin-Sekundenindex, im Inneren mit **4 Hz ($28\,800\text{ A/h}$)** oszillierender Platin-Schraubenunruh & Breguet-Spirale, pulsierendem Rubin-Chaton, **72h-Gangreserve-Bogen** und aktivem **`STELLWERK 12°/s`-Indikator**.
-4. **Sanfter $12^\circ/\text{s}$-Zeigerlauf (doppelt so schnell wie der Sekundenzeiger):**
-   - Bei jeder $90^\circ$-Drehung der Zeiteinteilung (sowie bei jedem Moduswechsel) gleiten die mechanischen Zeiger kontinuierlich mit exakt **$12{,}0^\circ/\text{s}$** ($2 \times 6{,}0^\circ/\text{s}$, d. h. $7{,}5\text{ s}$ für $90^\circ$) auf die neue Uhrzeit- bzw. Instrumentenposition, während die 24 Goldziffern kardanisch aufrecht bleiben.
-5. **Hochglanzpoliertes 18k-Spiegelgold-Schild auf der Sammler-Schatulle:**
-   - Das vordere Editions-Schild (`SternenMeister® / Zeitmeister 24 · Edition 777 / Nr. 007 / 7777`) besitzt exakt denselben hochglanzpolierten 18k-Gelbgold-Spiegelglanz (tiefe Bronze-/Espresso-Spiegelzonen, helle Champagner-Glanzbänder, 3D-Fase und 4 echte Eckschrauben) wie die hinteren Scharniere der Schatulle.
-6. **8 Hyper-Luxus Grande-Complication-Modi:**
-   - **`Panorama`:** Dynamischer 24h-Alpenhimmel, 24h-Zeiteinteilung, Live-Barometer (`Open-Meteo`), 13-Monde-Subdial mit rotem Ring (`#E62447`) & 6-Uhr-Funktions-Tourbillon.
-   - **`Vital & Puls` (Neu):** Biometrischer Pulsometer (`40–180 BPM` via Stundenzeiger) & Hämodynamik-Blutdruck (`80–180 mmHg` via Minutenzeiger), 60-FPS **P-Q-R-S-T EKG-/PPG-Pulswellen-Oszilloskop**, Live-Anzeige von **Puls (`BPM`)**, **Blutdruck (`SYS/DIA mmHg` + Klassifikation)**, **HRV (`ms RMSSD`)**, **SpO₂ (`%`)** und **Atemfrequenz (`/min`)**, inkl. interaktivem **Tap-Pulsometer** zur echten Live-Pulsmessung per Mausklick sowie **15s PPG-Vital-Scan**.
-   - **`Chronograph` (Neu):** Rattrapante-Schleppzeiger-Chronograph (`1/100 s`), Tachymeter (`60–400 km/h`) und 15-Schläge-Arzt-Pulsometer.
-   - **`Kosmos & Sonnenlauf` (Neu):** Wahre Ortszeit (`WOZ`), Astronomische Zeitgleichung ($\Delta t_{\text{EoT}}$), Lokale Sternzeit (`LST`), lokaler Sonnenaufgang/Zenit/Sonnenuntergang und heliozentrisches 6-Planeten-Orrery (`☿ ♀ ♁ ♂ ♃ ♄`).
-   - **`Kompass`:** 2-Phasen-Kinematik (`6h/12h` → $360^\circ$-Nordweisung).
-   - **`Koordinaten`:** `CoreLocation` macOS-Ortung im DMS-Format inkl. Höhe.
-   - **`Barometer`:** Große $240^\circ$-Meteorologie-Skala (`960–1080 hPa`).
-   - **`13-Monde`:** Großer 13-Monde-Astronomie-Zyklus (`I`–`XIII` / `✦`).
-7. **9 Größen (`2×2` bis `10×10`) & Platin-950/24k-Gold-Saphirglas-Werkboden.**
+[🇩🇪 Deutsch](README.md) • [🇬🇧 English](README.en.md) • [🇫🇷 Français](README.fr.md) • [🇷🇺 Русский](README.ru.md) • [🇨🇳 中文](README.zh.md) • [🇦🇪 العربية](README.ar.md) • [🇮🇱 עברית](README.he.md) • [📜 Jiddisch](README.yi.md)
+
+</div>
 
 ---
 
-## 📦 Installation
+
+Offizielle Closed-Source-Binärverteilung des **SternenMeister® Zeitmeister 24** Hyper-Luxus-Desktop-Widgets für macOS (ab macOS 14 Sonoma).
+
+---
+
+## ✨ Neu in Version `2.5.0`: Die Globale Manufaktur-Edition
+
+### 1. 8 Kultur- & Sprachwelten auf dem Zifferblatt
+Das Widget passt sich auf Knopfdruck an 8 Kultursysteme an — inklusive **Original-Wappenemblem**, landestypischem 24h-Zahlenkranz, übersetztem Datumsfenster bei 6 Uhr, lokalisierten Hilfszifferblättern und nativer RTL-Schriftrichtung:
+- **🇩🇪 Deutsch (SternenMeister):** Lateinischer 24h-Kranz, Alpenpanorama, `hPa · LUFTDRUCK`, `13-MONDE ZYKLUS`.
+- **🇬🇧/🇺🇸 English (StarMaster):** Modern Roman numerals, `hPa · PRESSURE`, `13-MOONS CYCLE`.
+- **🇫🇷 Français (Maître des Étoiles):** Typographie Haute Horlogerie Didot, `hPa · PRESSION`, `CYCLE DES 13 LUNES`.
+- **🇷🇺 Русский (Звёздный Мастер):** Имперские серифы 1..24, `гПа · ДАВЛЕНИЕ`, `13-ЛУННЫЙ ЦИКЛ`.
+- **🇨🇳 中文 (大师 · 时空大师):** Kaiserliche Goldziffern `一..二十四`, `百帕 · 气压`, `十三月相周期`.
+- **🇦🇪 العربية (شاهد النجوم):** الأرقام المشرقية العربية `١..٢٤`, `هكتوباسكال · الضغط الجوي`, `دورة ١٣ قمراً`.
+- **🇮🇱 עברית (שטערן מייסטער):** ספרות עבריות אותנטיות `א׳..כ״ד`, `hPa · לחץ ברומטרי`, כיווניות מימין לשמאל (RTL).
+- **📜 Jiddisch (ShternMayster):** Lataynisher 24-shoen krants, `hPa · LUFTDRUK`, `13 LEVONES TSIKL`.
+
+### 2. Umfassende Tooltips / Shorttips im gesamten Menü
+Jeder Menüeintrag, jeder Modus, jede Größe und jede Uhren-Einstellung ist nun mit prägnanten **Shorttips / Tooltips** in der jeweils aktiven Sprache versehen, die bei Mausberührung auf einen Blick Auskunft über Funktion, Mechanik und Historie geben.
+
+### 3. Die 8 instrumentellen Grande-Complication-Betriebsmodi
+1. **Panorama-Modus:** 24h-Alpenhimmel mit 3D-Sonne, dynamischer Mondbahn und sichtbarem 6-Uhr-Funktions-Tourbillon (Kaliber SM-ZM24).
+2. **Chronograph-Modus:** Rattrapante-Schleppzeiger-Stoppuhr auf 1/100 Sekunde genau, 60-Minuten-Zähler, Tachymeter (`60–400 km/h`) und Arzt-Pulsometer.
+3. **Kosmos & Sonnenlauf:** Wahre Ortszeit (WOZ), Astronomische Zeitgleichung (EoT), Lokale Sternzeit (LST) und 6-Planeten-Orrery.
+4. **Vital & Puls:** 60-FPS EKG-Pulswellen-Oszilloskop, Live-Puls (BPM), Blutdruck (SYS/DIA), HRV, SpO₂ und interaktiver Klick-Pulsometer.
+5. **13-Monde-Astronomie:** Astronomischer 13-Monde-Zyklus nach ADR-0008 mit 13 Phasenringen und Epagomenal-Tag.
+6. **Kompass-Modus:** 2-Phasen-Orientierung mit dynamischer 360°-Nordweisung über den rubingelagerten Sekundenzeiger.
+7. **Barometer-Modus:** Große $240^\circ$-Meteorologie-Skala (`960–1080 hPa`) mit Live-Open-Meteo-Abfrage.
+8. **Koordinaten-Modus:** macOS-Geodäsie mit exaktem DMS-Format (`° ' "`), Höhenmetern und Satellitenstatus.
+
+---
+
+## 📦 Installation & GitHub-Auto-Updater
 
 1. [`Zeitmeister24-Widget-macOS.zip`](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip) herunterladen und entpacken.
-2. `ZeitmeisterApp.app` in den Ordner `/Applications` bewegen und öffnen.
-3. Bereits installierte Versionen aktualisieren sich automatisch über den integrierten **GitHub-Auto-Updater** (Rechtsklick auf die Uhr → *Update installieren*).
+2. `ZeitmeisterApp.app` in den Ordner `/Applications` bewegen und starten.
+3. Das Widget aktualisiert sich auf Wunsch automatisch im Hintergrund über den integrierten GitHub-Auto-Updater (Rechtsklick → *Update installieren*).
 
 ---
 

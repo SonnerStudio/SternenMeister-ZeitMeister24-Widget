@@ -1,27 +1,56 @@
-# SternenMeister® Zeitmeister 24 — macOS Desktop Widget (`v2.3.0` · Build `16`)
+# StarMaster® TimeMaster 24 — macOS Desktop Widget (`v2.5.0`)
 
-Official binary distribution of the **SternenMeister® Zeitmeister 24** hyper-luxury macOS desktop timepiece (macOS 14 Sonoma or later).
+![StarMaster TimeMaster 24 - Global Multi-Language Editions](assets/hero-multilanguage-editions.png)
 
----
+<div align="center">
 
-## ✨ What's New in Version `2.3.0` (Build `16`)
+🌐 **Sprache wählen / Select Language / Choisissez la langue / Выберите язык / 选择语言 / اختر اللغة / בחר שפה:**
 
-1. **Full 360° 18k-Gold Inner Bezel Rim & Horological Centering:**
-   - The unified full-bleed circular display is centered at `(320.0, 325.0)` beneath a continuous 360° diamond-turned 18k-gold inner bezel rim ("Einfassung") and vector gold rehaut ring, keeping the golden rim 100% visible all around in both standalone and collector's box views.
-2. **Golden Ratio ($\Phi = 1.618034$, $\varphi = 0.618034$) Architecture:**
-   - The **SternenMeister Crest (`Platinum Vril`)** and **central mechanical Date Housing (`Weekday / Day / Month`)** are proportioned as exact Golden Rectangles.
-   - The **Barometer & 13-Moons subdials** ($R_{\text{sub}} = 50\text{ px}$) follow the Golden Ratio ($\pm dx / dy = \Phi = 1.618$).
-3. **Live Functional 6-o'clock Mechanical Flying Tourbillon (`Caliber SM-ZM24`):**
-   - Positioned at the lower Golden Section ($y = cy + \varphi \cdot R_{\text{disp}}$, $R_{\text{tourb}} = R_{\text{sub}} \cdot \varphi$) directly above the 6-o'clock numeral with a crisp horological margin.
-   - Features continuous **60-second cage rotation ($6^\circ/\text{s}$)** with ruby seconds index, **4 Hz ($28,800\text{ vph}$)** oscillating platinum balance wheel & Breguet hairspring, pulsing ruby chaton, **72h power-reserve arc**, and live **`STELLWERK 12°/s`** differential gear indicator.
-4. **Smooth $12^\circ/\text{s}$ Hand Rotation (Twice the Speed of the Second Hand):**
-   - On every $90^\circ$ rotation of the 24h time division (and on mode transitions), the mechanical hands glide smoothly at **$12.0^\circ/\text{s}$** ($2 \times 6.0^\circ/\text{s}$, $7.5\text{ s}$ for $90^\circ$) to their new position while all 24 gold numerals remain upright.
-5. **Mirror-Polished 18k Gold Box Plaque Matching the Hinges:**
-   - The front edition plaque on the walnut burl collector's box features the exact same high-gloss mirror-polished 18k yellow-gold reflection profile (deep bronze/espresso mirror bands, champagne white-gold specular streaks, 3D bevel, and 4 corner screws) as the rear hinges.
-6. **8 Hyper-Luxury Grande Complication Modes:**
-   - **`Panorama`**, **`Vital & Puls`** (Pulsometer `40–180 BPM` via hour hand, Hemodynamic Blood Pressure `80–180 mmHg` via minute hand, 60-FPS P-Q-R-S-T ECG/PPG waveform, HRV, SpO₂, respiration rate, interactive **Tap-Pulsometer** & **15s PPG Vital Scan**), **`Chronograph`** (Rattrapante split-seconds, Tachymeter `60–400 km/h` & 15-beats Doctor's Pulsometer), **`Kosmos & Sonnenlauf`** (True Solar Time, Equation of Time, Local Sidereal Time, Sunrise/Solar Noon/Sunset & 6-planet heliocentric Orrery), **`Kompass`**, **`Koordinaten`**, **`Barometer`**, and **`13-Monde`**.
-7. **9 Widget Sizes (`2×2` to `10×10`) & Platinum-950/24k-Gold Sapphire Caseback.**
+[🇩🇪 Deutsch](README.md) • [🇬🇧 English](README.en.md) • [🇫🇷 Français](README.fr.md) • [🇷🇺 Русский](README.ru.md) • [🇨🇳 中文](README.zh.md) • [🇦🇪 العربية](README.ar.md) • [🇮🇱 עברית](README.he.md) • [📜 Jiddisch](README.yi.md)
+
+</div>
 
 ---
 
-*© 2026 SonnerStudio · SternenMeister® Manufaktur · Edition 777 (No. 007 / 7777) · All rights reserved.*
+
+Official closed-source binary release of the **StarMaster® TimeMaster 24** hyper-luxury desktop widget for macOS (macOS 14 Sonoma and later).
+
+---
+
+## ✨ What's New in Version `2.5.0`: The Global Manufacture Edition
+
+### 1. 8 Cultural & Language Editions on the Dial
+Instantly switch between 8 distinct cultural horological traditions — complete with **authentic heraldic crests**, bespoke 24-hour numeral typography, localized 6 o'clock calendar windows, translated subdials, and native Right-to-Left (RTL) script rendering:
+- **🇬🇧/🇺🇸 English (StarMaster):** Modern Roman numerals, `hPa · PRESSURE`, `13-MOONS CYCLE`.
+- **🇩🇪 German (SternenMeister):** Alpine silhouette, `hPa · LUFTDRUCK`, `13-MONDE ZYKLUS`.
+- **🇫🇷 French (Maître des Étoiles):** Didot Haute Horlogerie typography, `hPa · PRESSION`, `CYCLE DES 13 LUNES`.
+- **🇷🇺 Russian (Звёздный Мастер):** Imperial Serif 1..24, `гПа · ДАВЛЕНИЕ`, `13-ЛУННЫЙ ЦИКЛ`.
+- **🇨🇳 Chinese (大师 · 时空大师):** Imperial gold characters `一..二十四`, `百帕 · 气压`, `十三月相周期`.
+- **🇦🇪 Arabic (شاهد النجوم):** Eastern Arabic-Indic numerals `١..٢٤`, `هكتوباسكال · الضغط الجوي`, `دورة ١٣ قمراً`.
+- **🇮🇱 Hebrew (שטערן מייסטער):** Traditional Hebrew numerals `א׳..כ״ד`, `hPa · לחץ ברומטרי`, native RTL layout.
+- **📜 Yiddish (ShternMayster):** Latin script 24-hour ring, `hPa · LUFTDRUK`, `13 LEVONES TSIKL`.
+
+### 2. Comprehensive Context Menu Tooltips & Shorttips
+Every single menu item, operational mode, widget dimension, and complication setting now features concise **hover shorttips** in your chosen language, explaining mechanics, functions, and horological heritage at a glance.
+
+### 3. The 8 Grande Complication Instrument Modes
+1. **Panorama Mode:** 24-hour continuous sky dial with 3D Sun, live lunar trajectory, Alpine peaks, and 6 o'clock flying tourbillon (Calibre SM-ZM24).
+2. **Chronograph Mode:** Split-seconds rattrapante accurate to 1/100s, 60-minute counter, tachymeter scale (60–400 km/h), and asthmometer.
+3. **Cosmos & Ephemeris:** True Solar Time, Equation of Time (EoT), Local Sidereal Time (LST), and 6-planet heliocentric orrery.
+4. **Vitals & Pulse:** 60-FPS ECG pulse wave oscilloscope, live heart rate (BPM), blood pressure (SYS/DIA), HRV, SpO2, and tap pulsometer.
+5. **13-Moons Astronomy:** Astronomical 13×28 lunar cycle with 13 phase apertures and epagomenal day.
+6. **Compass Mode:** 2-phase directional orientation with dynamic 360° north alignment via the ruby-jeweled second hand.
+7. **Barometer Mode:** Large 240° meteorological scale (960–1080 hPa) with real-time Open-Meteo atmospheric pressure queries.
+8. **Coordinates Mode:** macOS GNSS geodesy with precise DMS format (`° ' "`), altitude, and satellite telemetry.
+
+---
+
+## 📦 Installation & GitHub Auto-Updater
+
+1. Download [`Zeitmeister24-Widget-macOS.zip`](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip) and extract it.
+2. Drag `ZeitmeisterApp.app` into `/Applications` and launch.
+3. Installed apps update seamlessly via the built-in GitHub updater (Right-click → *Install Update*).
+
+---
+
+*© 2026 SonnerStudio · StarMaster® Manufacture · Edition 777 (No. 007 / 7777) · All Rights Reserved.*
