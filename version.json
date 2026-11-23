@@ -1,12 +1,12 @@
 {
-  "version": "2.5.5",
-  "latest_version": "2.5.5",
-  "build": 25,
+  "version": "2.5.6",
+  "latest_version": "2.5.6",
+  "build": 26,
   "release_date": "2026-11-23",
-  "title": "v2.5.5: 100% Native AppKit-Untermenüs & Vollständige Mehrsprachigkeit der Update-Zentrale",
-  "release_notes": "Garantiert funktionierende native AppKit-Untermenüs für Sprache (8 Kulturen) und Widget-Größe (9 Größen). Vollständige Lokalisierung der GitHub-Update-Zentrale in allen 8 Sprachen (Deutsch, Englisch, Französisch, Russisch, Chinesisch, Arabisch, Hebräisch, Jiddisch) inklusive automatisierter Test-Suite.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.5/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.5.6: Niederländische Manufaktur-Edition (9 Kulturen) & Dynamische Lünetten-Kartusche",
+  "release_notes": "Niederländisch als 9. globale Kultursprache (SterrenMeester®) mit vollständiger Übersetzung für Wijzerplaat, Barometer ('MOOI', 'STORM') und 13-Manen-Zyklus. Dynamische Lünetten-Kartusche schaltet den Markennamen automatisch passend zur Sprache um. Sonnenaufgangs- und Sonnenuntergangsfelder wurden über das Zentralband angehoben und sind zu 100 % überdeckungsfrei. Inklusive 1-Klick-GitHub-Update-Zentrale.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.6/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "8a35d69ba66f4cd4c04adb971ac18e7553f6a106cc90ac4c8967cb0c2d5adc53"
+  "sha256": "e63ffff0f2e8dbd973d795c7d24983663495ac862658e691a34d3be3e44a1e6c"
 }
