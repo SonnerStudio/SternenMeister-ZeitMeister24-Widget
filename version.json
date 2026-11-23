@@ -1,12 +1,12 @@
 {
-  "version": "2.5.4",
-  "latest_version": "2.5.4",
-  "build": 24,
+  "version": "2.5.5",
+  "latest_version": "2.5.5",
+  "build": 25,
   "release_date": "2026-11-23",
-  "title": "v2.5.4: 1-Klick GitHub-Update-Zentrale & Vollständiges Kontextmenü",
-  "release_notes": "Vollständiges Kontextmenü wiederhergestellt (alle 8 Grande-Complication-Modi, Stoppuhr, Vital-Scan, Etui & Größen). Nahtlose Umschaltung aller 8 Kultur-Editionen und Wappenplaketten auf dem Zifferblatt. 1-Klick GitHub-Update-Zentrale mit nativer Installationsroutine und Live-Fortschrittsbalken. Optimierte Netzwerk-Aktualisierung und Multi-Screen-Unterstützung unter allen macOS-Versionen.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.4/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.5.5: 100% Native AppKit-Untermenüs & Vollständige Mehrsprachigkeit der Update-Zentrale",
+  "release_notes": "Garantiert funktionierende native AppKit-Untermenüs für Sprache (8 Kulturen) und Widget-Größe (9 Größen). Vollständige Lokalisierung der GitHub-Update-Zentrale in allen 8 Sprachen (Deutsch, Englisch, Französisch, Russisch, Chinesisch, Arabisch, Hebräisch, Jiddisch) inklusive automatisierter Test-Suite.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.5/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "b4a7c06d765161c8c36809d824c87a6905e4c0bace4f705ffc94eb19f28b69ac"
+  "sha256": "8a35d69ba66f4cd4c04adb971ac18e7553f6a106cc90ac4c8967cb0c2d5adc53"
 }
