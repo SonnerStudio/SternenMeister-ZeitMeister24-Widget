@@ -1,4 +1,4 @@
-# SternenMeister® Zeitmeister 24 — macOS Desktop-Widget (`v2.5.0`)
+# SternenMeister® Zeitmeister 24 — macOS Desktop-Widget (`v2.6.0`)
 
 ![SternenMeister Zeitmeister 24 - Global Multi-Language Editions](assets/hero-multilanguage-editions.png)
 

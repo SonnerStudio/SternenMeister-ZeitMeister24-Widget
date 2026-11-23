@@ -1,4 +1,4 @@
-# 大师® 时空大师 24 — macOS 桌面小组件 (`v2.5.0`)
+# 大师® 时空大师 24 — macOS 桌面小组件 (`v2.6.0`)
 
 ![大师 时空大师 24 - 全球多语言臻品巨制](assets/hero-multilanguage-editions.png)
 

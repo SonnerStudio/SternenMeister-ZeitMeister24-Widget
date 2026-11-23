@@ -1,12 +1,12 @@
 {
-  "version": "2.5.9",
-  "latest_version": "2.5.9",
-  "build": 29,
+  "version": "2.6.0",
+  "latest_version": "2.6.0",
+  "build": 30,
   "release_date": "2026-11-23",
-  "title": "v2.5.9: 9 Perfektionierte Manufaktur-Gehäuse & Hyper-Luxus 3D-Drücker",
-  "release_notes": "Vollständige Wiederherstellung des kristallklaren Manufaktur-Gehäuses in 9 eigenständigen Kultur-Varianten ohne ®-Markenzeichen (SternenMeister, StarMaster, Maître des Étoiles, Звёздный Мастер, 时空大师, شاهد النجوم, מאסטר הכוכבים, ShternMayster, SterrenMeester). Gestufte 3D-gerändelte Funktionsdrücker und fein gezahnte Hauptkrone, nativ geformte arabische/hebräische Typografie sowie lokalisierte Barometer-Skalenwerte.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.9/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.6.0: Konzentrisches Zifferblatt, Gold-Rehaut & Manufaktur-Feinschliff",
+  "release_notes": "Zifferblatt exakt konzentrisch zur Lünette (vermessen auf unter 1 px) mit neuem diamantgedrehtem 18k-Gold-Rehaut, der Rand und Verzierungen ringsum frei lässt. Weicher Schlagschatten statt harter schwarzer Fensterkontur. Fein gerändelte Drücker und Krone mit echter Lichtführung. Barometer als reine Vektorskala (960–1080 hPa) ohne doppelte Ziffern. Poliertes Platin-Symbol im Wappen, gravierte Goldschrift statt Info-Kästchen, Gangreserve in Gold.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.6.0/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "529f8d107cfef6d3114f788780e1207f6ed91283d03d4c97209fba2f7f7c065c"
+  "sha256": "c1735e015fc93c7e137d9c36d89c07a0ee88abbfdd820b25252e7827314f8af4"
 }
