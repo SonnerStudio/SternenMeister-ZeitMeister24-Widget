@@ -1,17 +1,12 @@
 {
-  "version": "2.5.2",
-  "latest_version": "2.5.2",
-  "build": 22,
-  "released_at": "2026-11-23T08:45:00Z",
+  "version": "2.5.4",
+  "latest_version": "2.5.4",
+  "build": 24,
   "release_date": "2026-11-23",
-  "min_macos": "14.0",
-  "title": "SternenMeister Zeitmeister 24 – Version 2.5.2 (1-Klick GitHub-Updatemaske & Direkte Sprachauswahl)",
-  "title_de": "SternenMeister Zeitmeister 24 – Version 2.5.2 (1-Klick GitHub-Updatemaske & Direkte Sprachauswahl)",
-  "title_en": "SternenMeister Zeitmeister 24 – Version 2.5.2 (1-Click GitHub Update Center & Direct Language Selection)",
-  "notes": "• Neu: 1-Klick GitHub-Updatemaske mit vollständiger Versionshistorie seit v2.0 und Live-Installationsfortschritt\\n• Fix: Direkte Sprachauswahl im Hauptmenü (alle 8 Sprachen mit Flagge und Häkchen sofort sichtbar und auswählbar)\\n• Zuverlässiger 1-Klick-Download direkt von GitHub Releases ohne API-Rate-Limit-Einschränkungen\\n• Nahtloses atomares Bundle-Update mit automatischem Neustart",
-  "notes_de": "• Neu: 1-Klick GitHub-Updatemaske mit vollständiger Versionshistorie seit v2.0 und Live-Installationsfortschritt\\n• Fix: Direkte Sprachauswahl im Hauptmenü (alle 8 Sprachen mit Flagge und Häkchen sofort sichtbar und auswählbar)\\n• Zuverlässiger 1-Klick-Download direkt von GitHub Releases ohne API-Rate-Limit-Einschränkungen\\n• Nahtloses atomares Bundle-Update mit automatischem Neustart",
-  "notes_en": "• New: 1-Click GitHub Update Center with complete changelog since v2.0 and live progress indicator\\n• Fix: Direct language selection in context menu (all 8 editions with flags and checkmarks immediately visible and clickable)\\n• Reliable 1-click downloads directly from GitHub Releases bypassing API rate limits\\n• Smooth atomic bundle replacement with automatic restart",
+  "title": "v2.5.4: 1-Klick GitHub-Update-Zentrale & Vollständiges Kontextmenü",
+  "release_notes": "Vollständiges Kontextmenü wiederhergestellt (alle 8 Grande-Complication-Modi, Stoppuhr, Vital-Scan, Etui & Größen). Nahtlose Umschaltung aller 8 Kultur-Editionen und Wappenplaketten auf dem Zifferblatt. 1-Klick GitHub-Update-Zentrale mit nativer Installationsroutine und Live-Fortschrittsbalken. Optimierte Netzwerk-Aktualisierung und Multi-Screen-Unterstützung unter allen macOS-Versionen.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.4/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.2/Zeitmeister24-Widget-macOS.zip",
-  "release_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/tag/v2.5.2"
+  "min_macos_version": "14.0",
+  "sha256": "b4a7c06d765161c8c36809d824c87a6905e4c0bace4f705ffc94eb19f28b69ac"
 }
