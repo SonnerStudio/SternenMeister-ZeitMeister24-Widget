@@ -1,12 +1,12 @@
 {
-  "version": "2.5.7",
-  "latest_version": "2.5.7",
-  "build": 27,
+  "version": "2.5.8",
+  "latest_version": "2.5.8",
+  "build": 28,
   "release_date": "2026-11-23",
-  "title": "v2.5.7: 9 Autonome Manufaktur-Gehäuse & Lokalisierte Barometer-Skala",
-  "release_notes": "Vollständige Beseitigung aller Behelfsplaketten: 9 eigenständige, fugenlos gravierte Luxusgehäuse auf Basis der Original-Meisteruhr mit präziser Rändelung aller 4 Drücker und der Hauptkrone. Authentische bogenförmige Gravuren im Goldgehäuse für alle 9 Kulturen. Volle Lokalisierung der Barometer-Skalenwerte (u. a. östarabische Ziffern ٩٦٠..١٠٨٠ für Arabisch, 百帕 für Chinesisch, ברומטר für Hebräisch). Inklusive 1-Klick-GitHub-Update-Zentrale.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.7/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.5.8: 9 Neue Manufaktur-Gehäuse mit authentischer 3D-Knopfgestaltung",
+  "release_notes": "1:1 Übernahme der Gehäusearchitektur aus der Meisteruhr-Referenz mit echten 3D-gerändelten Funktionsdrückern und gezahnter Hauptkrone. Neun eigenständige Kultur-Gehäuse mit erhabener Bogen-Gravur im Metall ohne Registered Trademark (SternenMeister, StarMaster etc.). Volle Barometer-Skalenlokalisierung (östarabische Ziffern ٩٦٠..١٠٨٠). 1-Klick-GitHub-Update.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.8/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "53c5815a7603169e659371d8cd780f800c805f5548fea8ddd4497d7960a238d2"
+  "sha256": "bfa3d7e2b35641980fc55790574747b7babaa5e5df8d1f90f0f7006f9b975f0d"
 }
