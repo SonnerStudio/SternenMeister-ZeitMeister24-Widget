@@ -1,12 +1,12 @@
 {
-  "version": "2.5.6",
-  "latest_version": "2.5.6",
-  "build": 26,
+  "version": "2.5.7",
+  "latest_version": "2.5.7",
+  "build": 27,
   "release_date": "2026-11-23",
-  "title": "v2.5.6: Niederländische Manufaktur-Edition (9 Kulturen) & Dynamische Lünetten-Kartusche",
-  "release_notes": "Niederländisch als 9. globale Kultursprache (SterrenMeester®) mit vollständiger Übersetzung für Wijzerplaat, Barometer ('MOOI', 'STORM') und 13-Manen-Zyklus. Dynamische Lünetten-Kartusche schaltet den Markennamen automatisch passend zur Sprache um. Sonnenaufgangs- und Sonnenuntergangsfelder wurden über das Zentralband angehoben und sind zu 100 % überdeckungsfrei. Inklusive 1-Klick-GitHub-Update-Zentrale.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.6/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.5.7: 9 Autonome Manufaktur-Gehäuse & Lokalisierte Barometer-Skala",
+  "release_notes": "Vollständige Beseitigung aller Behelfsplaketten: 9 eigenständige, fugenlos gravierte Luxusgehäuse auf Basis der Original-Meisteruhr mit präziser Rändelung aller 4 Drücker und der Hauptkrone. Authentische bogenförmige Gravuren im Goldgehäuse für alle 9 Kulturen. Volle Lokalisierung der Barometer-Skalenwerte (u. a. östarabische Ziffern ٩٦٠..١٠٨٠ für Arabisch, 百帕 für Chinesisch, ברומטר für Hebräisch). Inklusive 1-Klick-GitHub-Update-Zentrale.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.5.7/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "e63ffff0f2e8dbd973d795c7d24983663495ac862658e691a34d3be3e44a1e6c"
+  "sha256": "53c5815a7603169e659371d8cd780f800c805f5548fea8ddd4497d7960a238d2"
 }
