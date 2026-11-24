@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-часовые аналоговые гибридные часы</i> · Часы гиперлюкс-класса для рабочего стола macOS</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Скачать-v2.8.4-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Скачать"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Скачать-v2.8.5-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Скачать"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Примечания%20к%20выпуску-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Примечания к выпуску"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -122,7 +122,7 @@
 
 Для погоды, давления, пути Солнца и Луны и пейзажа ваше **приблизительное местоположение** передаётся в [Open-Meteo](https://open-meteo.com) (погода, модель высот, климатический архив) и в службу геолокации Apple. macOS запрашивает доступ к геолокации. Без него часы используют часовой пояс и показывают открытую равнину.
 
-## ✦ Новое в версии 2.8.4
+## ✦ Новое в версии 2.8.5
 
 - ✦ Полностью новый нарисованный корпус с гравировкой марки издания на ободе
 - ✦ Качель на 9 ч и новая логика управления: слева навигация, справа действие

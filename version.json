@@ -1,13 +1,13 @@
 {
-  "version": "2.8.4",
-  "latest_version": "2.8.4",
-  "build": 38,
+  "version": "2.8.5",
+  "latest_version": "2.8.5",
+  "build": 39,
   "release_date": "2026-11-24",
-  "title": "v2.8.4: Nur noch die echte Sonne – ohne Blendlicht",
-  "release_notes": "Keine zweite, blendende Sonne mehr: Die gemalte Sonne ist aus den Himmelsbildern entfernt. Nur noch die echte Sonne zieht ihre Bahn über das Display – natürlich, warm und ohne Blendstern.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.4/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.8.5: Sonnen- und Mondbogen über das Display",
+  "release_notes": "Sonne und Mond ziehen wieder einen deutlichen Bogen über das Display: Aufgang am linken, Untergang am rechten Rand, Höchststand im Scheitel. Die Bogenhöhe folgt der echten Höhe relativ zur Tageskulmination – im Winter flacher, im Sommer höher. Der Mond bleibt während seiner ganzen Sichtbarkeit auf dem Display.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.5/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "925722d1329fea1b38bd61516faecbabe5b9c8db219bf409ab97feafb6cd7ea1",
-  "notes": "Keine zweite, blendende Sonne mehr: Die gemalte Sonne ist aus den Himmelsbildern entfernt. Nur noch die echte Sonne zieht ihre Bahn über das Display – natürlich, warm und ohne Blendstern."
+  "sha256": "13610a17f60fc0fa6701b432b410ff123a7597cca855c7f9276fad6208bc2fae",
+  "notes": "Sonne und Mond ziehen wieder einen deutlichen Bogen über das Display: Aufgang am linken, Untergang am rechten Rand, Höchststand im Scheitel. Die Bogenhöhe folgt der echten Höhe relativ zur Tageskulmination – im Winter flacher, im Sommer höher. Der Mond bleibt während seiner ganzen Sichtbarkeit auf dem Display."
 }

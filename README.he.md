@@ -8,7 +8,7 @@
 <h3 align="center"><i>שעון היברידי אנלוגי 24 שעות</i> · שעון יוקרה-על לשולחן העבודה של macOS</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/הורדה-v2.8.4-d4af37?style=for-the-badge&labelColor=0b0a08" alt="הורדה"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/הורדה-v2.8.5-d4af37?style=for-the-badge&labelColor=0b0a08" alt="הורדה"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/הערות%20גרסה-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="הערות גרסה"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -124,7 +124,7 @@
 
 לצורך מזג אוויר, לחץ אוויר, מסלול השמש והירח והנוף, **המיקום המשוער** שלך נשלח אל [Open-Meteo](https://open-meteo.com) (מזג אוויר, מודל גובה, ארכיון אקלים) ואל שירות המיקום של Apple. macOS מבקש הרשאת מיקום; בלעדיה השעון פועל לפי אזור הזמן ומציג שטח פתוח.
 
-## ✦ חדש בגרסה 2.8.4
+## ✦ חדש בגרסה 2.8.5
 
 - ✦ תיבה חדשה לגמרי ומצוירת עם חריטת שם המהדורה על השפה
 - ✦ מתג נדנדה ב־9 והיגיון הפעלה חדש: ניווט משמאל, פעולה מימין
