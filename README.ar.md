@@ -8,7 +8,7 @@
 <h3 align="center"><i>ساعة هجينة تناظرية بنظام 24 ساعة</i> · ساعة فائقة الفخامة لسطح مكتب macOS</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/تنزيل-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="تنزيل"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/تنزيل-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="تنزيل"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/ملاحظات%20الإصدار-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="ملاحظات الإصدار"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -86,7 +86,7 @@
 
 ## ✦ الغطاء الخلفي والكون
 
-يكشف زر الساعة 8 عن الآلية: بلاتين 950 وذهب 750 مع الياقوت والبراغي المزرقة. ويعرض وضع الكون التوقيت الشمسي الحقيقي ومعادلة الزمن والزمن النجمي وحركة الكواكب.
+يكشف زر الساعة 8 عن الآلية: بلاتين 950 وذهب 750 مع الياقوت والبراغي المزرقة. ويعرض وضع الكون التوقيت الشمسي الحقيقي ومعادلة الزمن والزمن النجمي وحركة الكواكب. الآلية حيّة: يتأرجح الميزان بتردد 4 هرتز فوق نابض بريغيه المتنفّس، ويدور قفص التوربيون دورة كل 60 ثانية، وتتعاشق التروس. **دوّار طرفي** من ذهب عيار 22 بكتلة من البلاتين 950 يعبّئ الساعة تلقائيًا عند حافة الآلية دون أن يحجب الرؤية. وتغطي لوحة ذهبية منقوشة بتموجات جنيف ومطعّمة بالبلاتين ونافذة من الياقوت الحاسوبَ الدقيق. وعند قلبها تُظهر الساعة كامل سماكة علبتها.
 
 <p align="center"><img src="assets/readme/caseback-ar.jpg" width="100%" alt="الغطاء الخلفي والكون"></p>
 
@@ -124,7 +124,7 @@
 
 للطقس وضغط الهواء ومسار الشمس والقمر والمشهد، يُرسَل **موقعك التقريبي** إلى [Open-Meteo](https://open-meteo.com) (الطقس ونموذج الارتفاع وأرشيف المناخ) وإلى خدمة الموقع لدى Apple. يطلب macOS إذن الموقع؛ ومن دونه تعمل الساعة وفق المنطقة الزمنية وتعرض أرضًا مفتوحة.
 
-## ✦ الجديد في الإصدار 2.8.0
+## ✦ الجديد في الإصدار 2.8.2
 
 - ✦ علبة جديدة كليًا مرسومة مع نقش اسم علامة الإصدار على الحافة
 - ✦ مفتاح متأرجح عند الساعة 9 ومنطق تحكم جديد: التنقل يسارًا والتنفيذ يمينًا

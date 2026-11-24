@@ -8,7 +8,7 @@
 <h3 align="center"><i>Montre hybride analogique 24 heures</i> · La montre d’hyper-luxe pour le bureau macOS</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Télécharger-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Télécharger"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Télécharger-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Télécharger"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Notes%20de%20version-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Notes de version"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -84,7 +84,7 @@ Le soleil et la lune occupent leur position calculée et parcourent leur arc à 
 
 ## ✦ Fond de boîte & cosmos
 
-Le poussoir de 8 h dévoile le mouvement : platine 950 et or 750, rubis et vis bleuies. Le mode Cosmos affiche temps solaire vrai, équation du temps, temps sidéral et course des planètes.
+Le poussoir de 8 h dévoile le mouvement : platine 950 et or 750, rubis et vis bleuies. Le mode Cosmos affiche temps solaire vrai, équation du temps, temps sidéral et course des planètes. Le mouvement est vivant : le balancier oscille à 4 Hz au-dessus de son spiral Breguet qui respire, la cage du tourbillon fait un tour en 60 secondes et le rouage s’engrène. Un **rotor périphérique** en or 22 carats avec masse en platine 950 remonte la montre en bordure du mouvement sans masquer la vue. Une plaque en or gravée, ornée de Côtes de Genève, d’incrustations de platine et d’un hublot saphir, recouvre le micro-ordinateur. En se retournant, la montre révèle toute l’épaisseur de sa boîte.
 
 <p align="center"><img src="assets/readme/caseback-fr.jpg" width="100%" alt="Fond de boîte & cosmos"></p>
 
@@ -122,7 +122,7 @@ Chaque édition porte son nom de marque gravé sur la carrure et parle sa langue
 
 Pour la météo, la pression, la course du soleil et de la lune et le paysage, votre **position approximative** est transmise à [Open-Meteo](https://open-meteo.com) (météo, modèle d’altitude, archives climatiques) et au service de localisation d’Apple. macOS demande l’autorisation de localisation. Sans elle, la montre utilise le fuseau horaire et affiche un paysage ouvert.
 
-## ✦ Nouveautés de la version 2.8.0
+## ✦ Nouveautés de la version 2.8.2
 
 - ✦ Boîte entièrement nouvelle et dessinée, avec le nom de l’édition gravé sur la carrure
 - ✦ Bascule à 9 h et nouvelle logique de commande : naviguer à gauche, agir à droite

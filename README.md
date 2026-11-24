@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-Stunden-Analoguhr-Hybrid</i> · Die Hyper-Luxus-Uhr für den macOS-Schreibtisch</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Herunterladen-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Herunterladen"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Herunterladen-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Herunterladen"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Release--Notizen-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Release-Notizen"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -84,7 +84,7 @@ Sonne und Mond stehen an ihrer berechneten Himmelsposition und ziehen in natürl
 
 ## ✦ Rückseite & Kosmos
 
-Der Drücker bei 8 Uhr öffnet den Blick auf das Uhrwerk: Platin 950 und Gold 750 mit Rubinen und gebläuten Schrauben. Der Modus Kosmos zeigt wahre Sonnenzeit, Zeitgleichung, Sternzeit und den Lauf der Planeten.
+Der Drücker bei 8 Uhr öffnet den Blick auf das Uhrwerk: Platin 950 und Gold 750 mit Rubinen und gebläuten Schrauben. Der Modus Kosmos zeigt wahre Sonnenzeit, Zeitgleichung, Sternzeit und den Lauf der Planeten. Das Werk lebt: Die Unruh schwingt mit 4 Hz über ihrer atmenden Breguet-Spirale, der Tourbillon-Käfig dreht in 60 Sekunden einmal, das Räderwerk greift ineinander. Ein **Peripherie-Rotor** aus 22-Karat-Gold mit Platin-950-Schwungmasse zieht die Uhr am Werkrand selbst auf, ohne den Blick zu verstellen. Über dem Mikrocomputer liegt eine gravierte Goldplatte mit Genfer Streifen, Platineinlagen und Saphirfenster. Beim Wenden zeigt die Uhr ihre volle Gehäusetiefe.
 
 <p align="center"><img src="assets/readme/caseback-de.jpg" width="100%" alt="Rückseite & Kosmos"></p>
 
@@ -122,7 +122,7 @@ Jede Edition trägt ihren Markennamen graviert auf dem Gehäuserand und spricht 
 
 Für Wetter, Luftdruck, Sonnen- und Mondlauf und die Landschaft wird der **ungefähre Standort** an [Open-Meteo](https://open-meteo.com) (Wetter, Höhenmodell, Klimaarchiv) und an den Apple-Ortsdienst übermittelt. macOS fragt dafür nach der Standortfreigabe. Ohne Freigabe arbeitet die Uhr mit der Zeitzone und zeigt offenes Land.
 
-## ✦ Neu in Version 2.8.0
+## ✦ Neu in Version 2.8.2
 
 - ✦ Völlig neues, gezeichnetes Gehäuse mit Markengravur der Edition auf dem Rand
 - ✦ Kipp-Element bei 9 Uhr und neue Bedienlogik: links navigieren, rechts handeln

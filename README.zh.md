@@ -8,7 +8,7 @@
 <h3 align="center"><i>24小时指针混合腕表</i> · macOS 桌面上的超奢华腕表</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/下载-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="下载"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/下载-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="下载"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/版本说明-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="版本说明"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -84,7 +84,7 @@
 
 ## ✦ 后盖与宇宙
 
-8 点按钮可展示机芯：950 铂金与 750 黄金，镶嵌红宝石与烤蓝螺丝。宇宙模式显示真太阳时、时差、恒星时与行星运行。
+8 点按钮可展示机芯：950 铂金与 750 黄金，镶嵌红宝石与烤蓝螺丝。宇宙模式显示真太阳时、时差、恒星时与行星运行。 机芯栩栩如生：摆轮在会呼吸的宝玑游丝上以 4 Hz 摆动，陀飞轮框架每 60 秒旋转一周，轮系相互啮合。22K 金配 950 铂金摆锤的**外缘自动陀**沿机芯边缘自动上链，不遮挡视线。微电脑上方覆有一块镌刻金板，饰以日内瓦波纹、铂金镶嵌与蓝宝石小窗。翻转时，腕表展现完整的表壳厚度。
 
 <p align="center"><img src="assets/readme/caseback-zh.jpg" width="100%" alt="后盖与宇宙"></p>
 
@@ -122,7 +122,7 @@
 
 为获取天气、气压、日月轨迹与风景，您的**大致位置**会发送至 [Open-Meteo](https://open-meteo.com)（天气、海拔模型、气候档案）及 Apple 定位服务。macOS 会请求定位授权；若未授权，腕表将依据时区显示开阔原野。
 
-## ✦ 2.8.0 版新内容
+## ✦ 2.8.2 版新内容
 
 - ✦ 全新绘制的表壳，表圈镌刻各版本品牌名
 - ✦ 9 点位置的摇杆与全新操作逻辑：左侧导航，右侧执行

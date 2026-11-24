@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-uurs analoog hybride horloge</i> · Het hyperluxe uurwerk voor het macOS-bureaublad</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Downloaden-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Downloaden"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Downloaden-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Downloaden"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Release--notities-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Release-notities"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -84,7 +84,7 @@ Zon en maan staan op hun berekende plek aan de hemel en trekken hun boog met nat
 
 ## ✦ Achterkant & kosmos
 
-De drukker bij 8 uur toont het uurwerk: platina 950 en goud 750 met robijnen en gebruineerde schroeven. De kosmosmodus toont ware zonnetijd, tijdvereffening, sterrentijd en de loop van de planeten.
+De drukker bij 8 uur toont het uurwerk: platina 950 en goud 750 met robijnen en gebruineerde schroeven. De kosmosmodus toont ware zonnetijd, tijdvereffening, sterrentijd en de loop van de planeten. Het uurwerk leeft: de balans slingert met 4 Hz boven zijn ademende Breguet-spiraal, de tourbillonkooi draait in 60 seconden één keer rond en het raderwerk grijpt in elkaar. Een **perifere rotor** van 22-karaats goud met een massa van platina 950 windt het horloge aan de rand van het uurwerk zelf op, zonder het zicht te belemmeren. Een gegraveerde gouden plaat met Côtes de Genève, platina-inlegwerk en een saffiervenster bedekt de microcomputer. Bij het omdraaien toont het horloge zijn volle kastdikte.
 
 <p align="center"><img src="assets/readme/caseback-nl.jpg" width="100%" alt="Achterkant & kosmos"></p>
 
@@ -122,7 +122,7 @@ Elke editie draagt haar merknaam gegraveerd op de kastrand en spreekt haar taal 
 
 Voor weer, luchtdruk, de baan van zon en maan en het landschap wordt je **globale locatie** gestuurd naar [Open-Meteo](https://open-meteo.com) (weer, hoogtemodel, klimaatarchief) en naar de locatiedienst van Apple. macOS vraagt om locatietoegang; zonder toegang werkt het horloge met de tijdzone en toont het open land.
 
-## ✦ Nieuw in versie 2.8.0
+## ✦ Nieuw in versie 2.8.2
 
 - ✦ Volledig nieuwe, getekende kast met de merknaam van de editie gegraveerd op de rand
 - ✦ Kantelschakelaar bij 9 uur en nieuwe bedieningslogica: links navigeren, rechts handelen

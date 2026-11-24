@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-shoen analog-hibrid zeyger</i> · Der hiper-luksus zeyger far dem macOS-shraybtish</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Aropnemen-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Aropnemen"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Aropnemen-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Aropnemen"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Notitsn%20tsu%20der%20oysgabe-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Notitsn tsu der oysgabe"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -84,7 +84,7 @@ Di zun un di levone shteyen oyf zeyer oysgerekhntn ort un geyen zeyer boygn in n
 
 ## ✦ Hinter-zayt & kosmos
 
-Der druker bay 8 efnt dem mekhanizm: platin 950 un gold 750 mit rubinen un bloye shroyfn. Der kosmos-modus vayzt emese zuntsayt, tsayt-glaykhung, shtern-tsayt un di planetn.
+Der druker bay 8 efnt dem mekhanizm: platin 950 un gold 750 mit rubinen un bloye shroyfn. Der kosmos-modus vayzt emese zuntsayt, tsayt-glaykhung, shtern-tsayt un di planetn. Der mekhanizm lebt: di unru shoklt zikh mit 4 Hz iber ir otemdiker Breguet-shpiral, der turbiyon-shtayg dreyt zikh eyn mol in 60 sekundes. A **periferisher rotor** fun 22-karat gold mit a platin-950 vog tsit dem zeyger aleyn oyf. A gegraveyrte gold-plate mit platin-ayngelegtsn dekt dem mikrokompyuter. Bay dem iberdreyen vayzt der zeyger zayn fule tifkayt.
 
 <p align="center"><img src="assets/readme/caseback-yi_latn.jpg" width="100%" alt="Hinter-zayt & kosmos"></p>
 
@@ -122,7 +122,7 @@ Yede oysgabe trogt ir mark-nomen gegraveyrt oyfn rand fun kestl un redt ir shpra
 
 Far veter, luftdruk, dem gang fun zun un levone un di landshaft vert dayn **untergefeyrer ort** geshikt tsu [Open-Meteo](https://open-meteo.com) un tsu Apple’s ort-dinst. macOS fregt far a derloybenish; on dem arbet der zeyger mit der tsaytzone.
 
-## ✦ Nay in versye 2.8.0
+## ✦ Nay in versye 2.8.2
 
 - ✦ A gants nay gemoltn kestl mit dem mark-nomen fun der oysgabe gegraveyrt oyfn rand
 - ✦ Vig-shalter bay 9 un a naye bedinung-logik: links navigirn, rekhts handlen
