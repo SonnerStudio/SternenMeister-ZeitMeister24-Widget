@@ -1,4 +1,4 @@
-# StarMaster® TimeMaster 24 — macOS Desktop Widget (`v2.6.1`)
+# StarMaster® TimeMaster 24 — macOS Desktop Widget (`v2.7.0`)
 
 ![StarMaster TimeMaster 24 - Global Multi-Language Editions](assets/hero-multilanguage-editions.png)
 

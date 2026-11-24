@@ -1,12 +1,12 @@
 {
-  "version": "2.6.1",
-  "latest_version": "2.6.1",
-  "build": 31,
+  "version": "2.7.0",
+  "latest_version": "2.7.0",
+  "build": 32,
   "release_date": "2026-11-24",
-  "title": "v2.6.1: Spiegelgleiches Gehäuse & überdeckungsfreie Anzeigen",
-  "release_notes": "Gehäuse links und rechts spiegelgleich: der unruhige linke Außenring mit alten Drückerresten ist entfernt. Drücker, Krone und Klickflächen sitzen konzentrisch zur Lünette. Barometer-Modus: Titel und Skalenziffern überlappen nicht mehr. Koordinaten-Modus und Himmelsbeschriftungen weichen Tourbillon, Sonne und Mond aus.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.6.1/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.7.0: Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen",
+  "release_notes": "Der Horizont zeigt die Landschaft des Standorts – aus echtem Gelände, Meer und Klimazone, vom ewigen Eis über Taiga, Wüste und Savanne bis zum Regenwald. Sonne und Mond laufen an ihrer echten Himmelsposition; Mondzeiten jetzt minutengenau, Polartag und Polarnacht werden erkannt. Größeres Tourbillon, landesschriftliche Goldziffern, niederländisches Wappen, freies Datumsfenster. Kompass mit gedämpfter Nadel und Peilung von Sonne und Mond, schnellere Zeiger bei jedem Moduswechsel, Kontextmenü vollständig in allen 9 Sprachen.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.7.0/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "303121be4f2dff090e20e5823741300e5912d4c7177f638f6fd719a394b7f6bf"
+  "sha256": "90c3b7c678ee3643fa1d5cfba774773167bc977ffbe08f5ea6c8a575e7e4e1e7"
 }
