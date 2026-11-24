@@ -1,4 +1,4 @@
-# ShternMayster® Tseytmayster 24 — macOS Desktop-Vidzhet (`v2.7.0`)
+# ShternMayster® Tseytmayster 24 — macOS Desktop-Vidzhet (`v2.7.1`)
 
 ![ShternMayster Tseytmayster 24 - Globale Oysgabe](assets/hero-multilanguage-editions.png)
 

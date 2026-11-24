@@ -1,12 +1,13 @@
 {
-  "version": "2.7.0",
-  "latest_version": "2.7.0",
-  "build": 32,
+  "version": "2.7.1",
+  "latest_version": "2.7.1",
+  "build": 33,
   "release_date": "2026-11-24",
-  "title": "v2.7.0: Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen",
-  "release_notes": "Der Horizont zeigt die Landschaft des Standorts – aus echtem Gelände, Meer und Klimazone, vom ewigen Eis über Taiga, Wüste und Savanne bis zum Regenwald. Sonne und Mond laufen an ihrer echten Himmelsposition; Mondzeiten jetzt minutengenau, Polartag und Polarnacht werden erkannt. Größeres Tourbillon, landesschriftliche Goldziffern, niederländisches Wappen, freies Datumsfenster. Kompass mit gedämpfter Nadel und Peilung von Sonne und Mond, schnellere Zeiger bei jedem Moduswechsel, Kontextmenü vollständig in allen 9 Sprachen.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.7.0/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.7.1: Update-Zentrale zeigt neue Versionen sofort an",
+  "release_notes": "Die Update-Zentrale fragt beim Öffnen sofort bei GitHub nach und zeigt Prüfstatus, Prüfzeit und einen Knopf „Jetzt prüfen“. Die Neuerungen eines verfügbaren Updates erscheinen direkt aus GitHub. Die Update-Zentrale öffnet im eigenen Fenster und wird bei kleiner Uhrgröße nicht mehr abgeschnitten. Nach dem Aufwachen aus dem Ruhezustand wird ebenfalls geprüft. Enthält alle Neuerungen von v2.7.0 (Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen).",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.7.1/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "90c3b7c678ee3643fa1d5cfba774773167bc977ffbe08f5ea6c8a575e7e4e1e7"
+  "sha256": "c73a7e39e5c9a01c4b1fdc3c63c1ba8ef9d196c1393437601142f0ae99e8887e",
+  "notes": "Die Update-Zentrale fragt beim Öffnen sofort bei GitHub nach und zeigt Prüfstatus, Prüfzeit und einen Knopf „Jetzt prüfen“. Die Neuerungen eines verfügbaren Updates erscheinen direkt aus GitHub. Die Update-Zentrale öffnet im eigenen Fenster und wird bei kleiner Uhrgröße nicht mehr abgeschnitten. Enthält alle Neuerungen von v2.7.0 (Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen)."
 }

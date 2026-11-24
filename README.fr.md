@@ -1,4 +1,4 @@
-# Maître des Étoiles® Maître du Temps 24 — Widget macOS (`v2.7.0`)
+# Maître des Étoiles® Maître du Temps 24 — Widget macOS (`v2.7.1`)
 
 ![Maître des Étoiles - Édition Multilingue Mondiale](assets/hero-multilanguage-editions.png)
 
