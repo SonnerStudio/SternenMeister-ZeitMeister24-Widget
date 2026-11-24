@@ -1,13 +1,13 @@
 {
-  "version": "2.7.1",
-  "latest_version": "2.7.1",
-  "build": 33,
+  "version": "2.8.0",
+  "latest_version": "2.8.0",
+  "build": 34,
   "release_date": "2026-11-24",
-  "title": "v2.7.1: Update-Zentrale zeigt neue Versionen sofort an",
-  "release_notes": "Die Update-Zentrale fragt beim Öffnen sofort bei GitHub nach und zeigt Prüfstatus, Prüfzeit und einen Knopf „Jetzt prüfen“. Die Neuerungen eines verfügbaren Updates erscheinen direkt aus GitHub. Die Update-Zentrale öffnet im eigenen Fenster und wird bei kleiner Uhrgröße nicht mehr abgeschnitten. Nach dem Aufwachen aus dem Ruhezustand wird ebenfalls geprüft. Enthält alle Neuerungen von v2.7.0 (Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen).",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.7.1/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.8.0: Der 24-Stunden-Analoguhr-Hybrid – neues Gehäuse, Kipp-Element, neue Bedienung",
+  "release_notes": "Der 24-Stunden-Analoguhr-Hybrid: völlig neues, gezeichnetes Gehäuse mit der Markengravur der Edition auf dem Rand, Kipp-Element bei 9 Uhr zum Wechseln der Modi und neue Bedienlogik – links navigieren, rechts handeln. Zifferblatt in allen Modi vollständig übersetzt, mit eigenen Zahlschriften für Hebräisch, Chinesisch und Arabisch. 90°-Drehung der Zeitskala in 0,9 s, Kompass erst starr auf Nord und dann gedämpft, Küsten mit weichem Meeresband.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.0/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "c73a7e39e5c9a01c4b1fdc3c63c1ba8ef9d196c1393437601142f0ae99e8887e",
-  "notes": "Die Update-Zentrale fragt beim Öffnen sofort bei GitHub nach und zeigt Prüfstatus, Prüfzeit und einen Knopf „Jetzt prüfen“. Die Neuerungen eines verfügbaren Updates erscheinen direkt aus GitHub. Die Update-Zentrale öffnet im eigenen Fenster und wird bei kleiner Uhrgröße nicht mehr abgeschnitten. Enthält alle Neuerungen von v2.7.0 (Landschaft je Standort, echter Sonnen- und Mondlauf, Menüs in 9 Sprachen)."
+  "sha256": "f6dd5fc14186ff90f5b454f4bc5f3d92f8d85dda98cbd8a58ad3aadfd13f21d9",
+  "notes": "Der 24-Stunden-Analoguhr-Hybrid: völlig neues, gezeichnetes Gehäuse mit der Markengravur der Edition auf dem Rand, Kipp-Element bei 9 Uhr zum Wechseln der Modi und neue Bedienlogik – links navigieren, rechts handeln. Zifferblatt in allen Modi vollständig übersetzt, mit eigenen Zahlschriften für Hebräisch, Chinesisch und Arabisch. 90°-Drehung der Zeitskala in 0,9 s, Kompass erst starr auf Nord und dann gedämpft, Küsten mit weichem Meeresband."
 }

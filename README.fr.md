@@ -1,55 +1,135 @@
-# Maître des Étoiles® Maître du Temps 24 — Widget macOS (`v2.7.1`)
+<p align="center">
+  <img src="assets/readme/hero-fr.jpg" width="100%" alt="Maître des Étoiles® Maître du Temps 24 – Montre hybride analogique 24 heures">
+</p>
 
-![Maître des Étoiles - Édition Multilingue Mondiale](assets/hero-multilanguage-editions.png)
+<p align="center"><a href="README.md">🇩🇪 Deutsch</a> &nbsp;·&nbsp; <a href="README.en.md">🇬🇧 English</a> &nbsp;·&nbsp; <b>🇫🇷 Français</b> &nbsp;·&nbsp; <a href="README.ru.md">🇷🇺 Русский</a> &nbsp;·&nbsp; <a href="README.zh.md">🇨🇳 中文</a> &nbsp;·&nbsp; <a href="README.ar.md">🇦🇪 العربية</a> &nbsp;·&nbsp; <a href="README.he.md">🇮🇱 עברית</a> &nbsp;·&nbsp; <a href="README.yi.md">📜 Yiddish</a> &nbsp;·&nbsp; <a href="README.nl.md">🇳🇱 Nederlands</a></p>
 
-<div align="center">
+<h1 align="center">✦ Maître des Étoiles® Maître du Temps 24 ✦</h1>
+<h3 align="center"><i>Montre hybride analogique 24 heures</i> · La montre d’hyper-luxe pour le bureau macOS</h3>
 
-🌐 **Sprache wählen / Select Language / Choisissez la langue / Выберите язык / 选择语言 / اختر اللغة / בחר שפה:**
+<p align="center">
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Télécharger-v2.8.0-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Télécharger"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Notes%20de%20version-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Notes de version"></a>
+  <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
+  <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
+</p>
 
-[🇩🇪 Deutsch](README.md) • [🇬🇧 English](README.en.md) • [🇫🇷 Français](README.fr.md) • [🇷🇺 Русский](README.ru.md) • [🇨🇳 中文](README.zh.md) • [🇦🇪 العربية](README.ar.md) • [🇮🇱 עברית](README.he.md) • [📜 Jiddisch](README.yi.md)
+<p align="center"><b>Plus que le temps. Un univers sur votre bureau.</b><br><sub>HYPER-LUXE · PRÉCISION · TRADITION · AVENIR</sub></p>
 
-</div>
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
 
----
+## ✦ La montre hybride analogique 24 heures
 
+Le **Maître du Temps 24** unit la sérénité d’un mouvement à aiguilles classique à l’intelligence d’un instrument. Son cadran divise la journée en **24 heures** – 18 h en haut, 6 h en bas, midi à gauche, minuit à droite – et révèle un ciel vivant : le soleil et la lune traversent l’horizon à leur **position réelle**, et le paysage en dessous est celui de **votre lieu**.
 
-Distribution binaire officielle du widget de bureau haute horlogerie **Maître des Étoiles® Maître du Temps 24** pour macOS (macOS 14 Sonoma et ultérieur).
+<table align="center">
+<tr><td><b>✦ Boîte</b></td><td>Or 18 carats poli, lunette en onyx, nom de marque gravé</td></tr>
+<tr><td><b>✦ Calibre</b></td><td>SM-ZM24 · tourbillon au-dessus du 6 · 4 Hz · indicateur de réserve de marche</td></tr>
+<tr><td><b>✦ Commandes</b></td><td>Couronne, quatre poussoirs et une bascule</td></tr>
+<tr><td><b>✦ Éditions</b></td><td>9 langues avec leurs propres chiffres, armoiries et gravures</td></tr>
+<tr><td><b>✦ Système</b></td><td>macOS 14 Sonoma ou plus récent · Apple silicon & Intel</td></tr>
+</table>
 
----
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
 
-## ✨ Nouveautés de la Version `2.5.0`: L'Édition Manufacture Mondiale
+## ✦ Commandes – naviguer à gauche, agir à droite
 
-### 1. 8 Mondes Culturels et Linguistiques sur le Cadran
-Basculez instantanément entre 8 traditions horlogères — avec **armoiries originales en or et platine**, typographie sur mesure du cadran 24 heures, guichet dateur à 6 heures localisé et lecture de droite à gauche (RTL) :
-- **🇫🇷 Français (Maître des Étoiles):** Typographie Didot Haute Horlogerie, `hPa · PRESSION`, `CYCLE DES 13 LUNES`.
-- **🇩🇪 Allemand (SternenMeister):** Voûte alpine, `hPa · LUFTDRUCK`, `13-MONDE ZYKLUS`.
-- **🇬🇧 Anglais (StarMaster):** Chiffres romains, `hPa · PRESSURE`, `13-MOONS CYCLE`.
-- **🇷🇺 Russe (Звёздный Мастер):** Empattements impériaux 1..24, `гПа · ДАВЛЕНИЕ`, `13-ЛУННЫЙ ЦИКЛ`.
-- **🇨🇳 Chinois (大师 · 时空大师):** Chiffres d'or impériaux `一..二十四`, `百帕 · 气压`, `十三月相周期`.
-- **🇦🇪 Arabe (شاهد النجوم):** Chiffres arabo-orientaux `١..٢٤`, `هكتوباسكال · الضغط الجوي`, `دورة ١٣ قمراً`.
-- **🇮🇱 Hébreu (שטערן מייסטער):** Chiffres hébraïques `א׳..כ״ד`, `hPa · לחץ ברומטרי`, alignement RTL natif.
-- **📜 Yiddish (ShternMayster):** Écriture latine 24h, `hPa · LUFTDRUK`, `13 LEVONES TSIKL`.
+Chaque commande a une seule fonction. Le côté gauche guide à travers la montre, le côté droit agit dans le mode choisi.
 
-### 2. Info-bulles complètes dans le menu contextuel
-Chaque fonction, mode instrumental et réglage propose une **info-bulle contextuelle** expliquant en un clin d'œil la mécanique et l'art horloger.
+<p align="center"><img src="assets/readme/controls-fr.jpg" width="100%" alt="Commandes – naviguer à gauche, agir à droite"></p>
 
-### 3. Les 8 Modes Instrumentaux de Grande Complication
-1. **Mode Panorama:** Ciel sur 24 heures avec soleil 3D, trajectoire lunaire et tourbillon volant à 6 heures (Calibre SM-ZM24).
-2. **Mode Chronographe:** Rattrapante au 1/100e de seconde, compteur 60 minutes, échelle tachymétrique et pulsomètre.
-3. **Cosmos & Éphéméride:** Temps solaire vrai, équation du temps (EoT), temps sidéral et planétaire à 6 planètes.
-4. **Pouls & Vital:** Oscilloscope d'ondes ECG 60 IPS, pouls (BPM), pression artérielle (SYS/DIA), SpO2 et pulsomètre.
-5. **Astronomie des 13 Lunes:** Calendrier lunaire 13×28 avec 13 ouvertures de phases et jour épagomène.
-6. **Mode Boussole:** Orientation sur 360° via la trotteuse rubis.
-7. **Mode Baromètre:** Cadran météorologique 240° (960–1080 hPa) avec données directes Open-Meteo.
-8. **Mode Coordonnées:** Géodésie GNSS macOS au format DMS (`° ' "`) et altitude.
+| Commande | Fonction |
+|:--|:--|
+| **▲ ▼ Bascule · 9 h** | Mode précédent ou suivant – les huit complications en boucle |
+| **Poussoir · 10 h** | Retour à l’état initial (Panorama) |
+| **Poussoir · 8 h** | Fond avec mouvement |
+| **Couronne · 3 h** | Tourner l’échelle 24 h de 90° |
+| **Poussoir · 2 h** | Action principale : chrono marche/arrêt · pouls · boussole au nord · actualiser |
+| **Poussoir · 4 h** | Action secondaire : intermédiaire/remise à zéro · scan 15 s · relèvement soleil/lune · échelle à 0° |
 
----
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
 
-## 📦 Installation & Mises à Jour Automatiques
+## ✦ Huit complications
+
+<p align="center"><img src="assets/readme/modes-fr.jpg" width="100%" alt="Huit complications"></p>
+
+| | |
+|:--|:--|
+| **1 · Panorama** | Ciel de 24 heures avec soleil, lune, météo, baromètre, affichage des 13 lunes et tourbillon. |
+| **2 · Pouls & vital** | Pulsomètre, tension, VFC, SpO₂ et courbe du pouls en direct ; prise du pouls par tapotement. |
+| **3 · Chronographe** | Rattrapante au 1/100 s avec temps intermédiaires, tachymètre et pulsomètre. |
+| **4 · Cosmos & soleil** | Temps solaire vrai, équation du temps, temps sidéral et course des planètes. |
+| **5 · Boussole** | L’aiguille rejoint le nord sans à-coup puis oscille amortie à chaque changement de cap ; relèvement du soleil et de la lune. |
+| **6 · Coordonnées** | Latitude et longitude en degrés, minutes, secondes, altitude et source de localisation. |
+| **7 · Baromètre** | Pression 960–1080 hPa avec temps, température, humidité et vent. |
+| **8 · 13 Lunes** | Le cycle lunaire de l’année avec phase, éclairement et âge de la lune. |
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+## ✦ Le paysage de votre lieu
+
+Au lieu d’un panorama de montagnes peint, l’horizon montre le **relief réel** autour de vous : altitudes à 2, 5, 12 et 30 km dans 24 directions, la mer via le service de localisation d’Apple ou MapKit, et la zone climatique de Köppen-Geiger issue de trois années de données. Partout sur Terre apparaît le bon décor – des **glaces éternelles** à la toundra, la taïga, le désert et la savane jusqu’à la **forêt tropicale**, avec mer, banquise et neige au-dessus de la limite des neiges.
+
+<p align="center"><img src="assets/readme/horizon-fr.jpg" width="100%" alt="Le paysage de votre lieu"></p>
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+## ✦ Soleil et lune en temps réel
+
+Le soleil et la lune occupent leur position calculée et parcourent leur arc à vitesse naturelle. Les heures de lever et de coucher sont exactes à la minute ; jour polaire et nuit polaire sont reconnus. Le ciel suit la hauteur réelle du soleil, de l’aube au jour, au crépuscule et à la nuit.
+
+<p align="center"><img src="assets/readme/skypath-fr.jpg" width="100%" alt="Soleil et lune en temps réel"></p>
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+## ✦ Fond de boîte & cosmos
+
+Le poussoir de 8 h dévoile le mouvement : platine 950 et or 750, rubis et vis bleuies. Le mode Cosmos affiche temps solaire vrai, équation du temps, temps sidéral et course des planètes.
+
+<p align="center"><img src="assets/readme/caseback-fr.jpg" width="100%" alt="Fond de boîte & cosmos"></p>
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+## ✦ Neuf éditions
+
+Chaque édition porte son nom de marque gravé sur la carrure et parle sa langue jusque dans le moindre détail – cadran, chiffres, échelles, menus et gravures.
+
+<p align="center"><img src="assets/readme/editions.jpg" width="100%" alt="Neuf éditions"></p>
+
+| Édition | Nom de marque | Chiffres |
+|:--|:--|:--|
+| 🇩🇪 Deutsch | **SternenMeister®** · Zeitmeister 24 | 1 – 24 |
+| 🇬🇧 English | **StarMaster®** · TimeMaster 24 | 1 – 24 |
+| 🇫🇷 Français | **Maître des Étoiles®** · Maître du Temps 24 | 1 – 24 |
+| 🇷🇺 Русский | **Звёздный Мастер®** · Мастер Времени 24 | 1 – 24 |
+| 🇨🇳 中文 | **大师®** · 时空大师 24 | 一 – 二十四 |
+| 🇦🇪 العربية | **شاهد النجوم®** · سيد الوقت ٢٤ | ١ – ٢٤ |
+| 🇮🇱 עברית | **שטערן מייסטער®** · מאסטר הזמן 24 | א׳ – כ״ד |
+| 📜 Yiddish | **ShternMayster®** · Tseytmayster 24 | 1 – 24 |
+| 🇳🇱 Nederlands | **SterrenMeester®** · Tijdmeester 24 | 1 – 24 |
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+## ✦ Installation & mises à jour
 
 1. Téléchargez [`Zeitmeister24-Widget-macOS.zip`](https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip) et décompressez-le.
-2. Déplacez `ZeitmeisterApp.app` dans `/Applications` et lancez l'application.
+2. Glissez `ZeitmeisterApp.app` dans **Applications** et ouvrez-la.
+3. Le centre de mise à jour (menu **Update**) interroge GitHub dès son ouverture et installe les nouvelles versions en un clic.
 
----
+> L’app est actuellement signée ad hoc. Au premier lancement, macOS peut afficher un avertissement : clic droit sur l’app → **Ouvrir**.
 
-*© 2026 SonnerStudio · Manufacture Maître des Étoiles® · Édition 777 · Tous droits réservés.*
+## ✦ Sources de données & confidentialité
+
+Pour la météo, la pression, la course du soleil et de la lune et le paysage, votre **position approximative** est transmise à [Open-Meteo](https://open-meteo.com) (météo, modèle d’altitude, archives climatiques) et au service de localisation d’Apple. macOS demande l’autorisation de localisation. Sans elle, la montre utilise le fuseau horaire et affiche un paysage ouvert.
+
+## ✦ Nouveautés de la version 2.8.0
+
+- ✦ Boîte entièrement nouvelle et dessinée, avec le nom de l’édition gravé sur la carrure
+- ✦ Bascule à 9 h et nouvelle logique de commande : naviguer à gauche, agir à droite
+- ✦ Cadran entièrement traduit dans tous les modes, chiffres natifs pour l’hébreu, le chinois et l’arabe
+- ✦ Paysage selon le lieu, vraie course du soleil et de la lune, jour et nuit polaires
+- ✦ Les aiguilles se placent en 0,9 s à chaque changement et chaque rotation de 90°
+
+<p align="center"><img src="assets/readme/divider-gold.png" width="720" alt=""></p>
+
+<p align="center"><sub>© 2026 SonnerStudio · Manufacture Maître des Étoiles® · Édition 777 · Tous droits réservés.</sub></p>
