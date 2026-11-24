@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-Stunden-Analoguhr-Hybrid</i> · Die Hyper-Luxus-Uhr für den macOS-Schreibtisch</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Herunterladen-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Herunterladen"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Herunterladen-v2.8.3-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Herunterladen"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Release--Notizen-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Release-Notizen"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -122,7 +122,7 @@ Jede Edition trägt ihren Markennamen graviert auf dem Gehäuserand und spricht 
 
 Für Wetter, Luftdruck, Sonnen- und Mondlauf und die Landschaft wird der **ungefähre Standort** an [Open-Meteo](https://open-meteo.com) (Wetter, Höhenmodell, Klimaarchiv) und an den Apple-Ortsdienst übermittelt. macOS fragt dafür nach der Standortfreigabe. Ohne Freigabe arbeitet die Uhr mit der Zeitzone und zeigt offenes Land.
 
-## ✦ Neu in Version 2.8.2
+## ✦ Neu in Version 2.8.3
 
 - ✦ Völlig neues, gezeichnetes Gehäuse mit Markengravur der Edition auf dem Rand
 - ✦ Kipp-Element bei 9 Uhr und neue Bedienlogik: links navigieren, rechts handeln

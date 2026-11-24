@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-Hour Analogue Hybrid Watch</i> · The hyper-luxury timepiece for the macOS desktop</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Download-v2.8.2-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Download"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Download-v2.8.3-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Download"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Release%20notes-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Release notes"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -122,7 +122,7 @@ Each edition carries its brand name engraved on the case rim and speaks its lang
 
 For weather, air pressure, the paths of sun and moon and the landscape, your **approximate location** is sent to [Open-Meteo](https://open-meteo.com) (weather, elevation model, climate archive) and to Apple’s location service. macOS asks for location access. Without it the watch uses your time zone and shows open land.
 
-## ✦ New in version 2.8.2
+## ✦ New in version 2.8.3
 
 - ✦ Completely new, drawn case with the edition’s brand engraved on the rim
 - ✦ Rocker at 9 o’clock and new control logic: navigate on the left, act on the right
