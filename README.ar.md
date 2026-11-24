@@ -8,7 +8,7 @@
 <h3 align="center"><i>ساعة هجينة تناظرية بنظام 24 ساعة</i> · ساعة فائقة الفخامة لسطح مكتب macOS</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/تنزيل-v2.8.0-d4af37?style=for-the-badge&labelColor=0b0a08" alt="تنزيل"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/تنزيل-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="تنزيل"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/ملاحظات%20الإصدار-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="ملاحظات الإصدار"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">

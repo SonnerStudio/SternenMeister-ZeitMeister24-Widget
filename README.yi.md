@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-shoen analog-hibrid zeyger</i> · Der hiper-luksus zeyger far dem macOS-shraybtish</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Aropnemen-v2.8.0-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Aropnemen"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Aropnemen-v2.8.1-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Aropnemen"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Notitsn%20tsu%20der%20oysgabe-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Notitsn tsu der oysgabe"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">

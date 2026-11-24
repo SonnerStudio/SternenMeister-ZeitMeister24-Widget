@@ -1,13 +1,13 @@
 {
-  "version": "2.8.0",
-  "latest_version": "2.8.0",
-  "build": 34,
+  "version": "2.8.1",
+  "latest_version": "2.8.1",
+  "build": 35,
   "release_date": "2026-11-24",
-  "title": "v2.8.0: Der 24-Stunden-Analoguhr-Hybrid – neues Gehäuse, Kipp-Element, neue Bedienung",
-  "release_notes": "Der 24-Stunden-Analoguhr-Hybrid: völlig neues, gezeichnetes Gehäuse mit der Markengravur der Edition auf dem Rand, Kipp-Element bei 9 Uhr zum Wechseln der Modi und neue Bedienlogik – links navigieren, rechts handeln. Zifferblatt in allen Modi vollständig übersetzt, mit eigenen Zahlschriften für Hebräisch, Chinesisch und Arabisch. 90°-Drehung der Zeitskala in 0,9 s, Kompass erst starr auf Nord und dann gedämpft, Küsten mit weichem Meeresband.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.0/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.8.1: Echte Gehäuserückseite mit Wende-Animation",
+  "release_notes": "Echte Gehäuserückseite: Die Uhr wendet sich in 0,9 s räumlich um, Krone und Kipp-Element liegen dabei spiegelbildlich. Polierter Goldboden mit acht Schrauben, Sonnenschliff und gravierten Inschriften in der Sprache der Edition, großes Saphirglasfenster auf das Tourbillon-Werk. Lederarmband mit goldenen Ziernähten, vorn und hinten deckungsgleich.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.1/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "f6dd5fc14186ff90f5b454f4bc5f3d92f8d85dda98cbd8a58ad3aadfd13f21d9",
-  "notes": "Der 24-Stunden-Analoguhr-Hybrid: völlig neues, gezeichnetes Gehäuse mit der Markengravur der Edition auf dem Rand, Kipp-Element bei 9 Uhr zum Wechseln der Modi und neue Bedienlogik – links navigieren, rechts handeln. Zifferblatt in allen Modi vollständig übersetzt, mit eigenen Zahlschriften für Hebräisch, Chinesisch und Arabisch. 90°-Drehung der Zeitskala in 0,9 s, Kompass erst starr auf Nord und dann gedämpft, Küsten mit weichem Meeresband."
+  "sha256": "0cb12cae21393e4e9f308368a26586cf972de53d76539346ab047a0d46cfb899",
+  "notes": "Echte Gehäuserückseite: Die Uhr wendet sich in 0,9 s räumlich um, Krone und Kipp-Element liegen dabei spiegelbildlich. Polierter Goldboden mit acht Schrauben, Sonnenschliff und gravierten Inschriften in der Sprache der Edition, großes Saphirglasfenster auf das Tourbillon-Werk. Lederarmband mit goldenen Ziernähten, vorn und hinten deckungsgleich."
 }
