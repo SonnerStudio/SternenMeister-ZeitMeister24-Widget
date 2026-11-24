@@ -8,7 +8,7 @@
 <h3 align="center"><i>24-uurs analoog hybride horloge</i> · Het hyperluxe uurwerk voor het macOS-bureaublad</h3>
 
 <p align="center">
-  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Downloaden-v2.8.3-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Downloaden"></a>
+  <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest/download/Zeitmeister24-Widget-macOS.zip"><img src="https://img.shields.io/badge/Downloaden-v2.8.4-d4af37?style=for-the-badge&labelColor=0b0a08" alt="Downloaden"></a>
   <a href="https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/latest"><img src="https://img.shields.io/badge/Release--notities-GitHub-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="Release-notities"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-c9a14a?style=for-the-badge&labelColor=0b0a08" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Editions-9-e5e4e2?style=for-the-badge&labelColor=0b0a08" alt="9">
@@ -122,7 +122,7 @@ Elke editie draagt haar merknaam gegraveerd op de kastrand en spreekt haar taal 
 
 Voor weer, luchtdruk, de baan van zon en maan en het landschap wordt je **globale locatie** gestuurd naar [Open-Meteo](https://open-meteo.com) (weer, hoogtemodel, klimaatarchief) en naar de locatiedienst van Apple. macOS vraagt om locatietoegang; zonder toegang werkt het horloge met de tijdzone en toont het open land.
 
-## ✦ Nieuw in versie 2.8.3
+## ✦ Nieuw in versie 2.8.4
 
 - ✦ Volledig nieuwe, getekende kast met de merknaam van de editie gegraveerd op de rand
 - ✦ Kantelschakelaar bij 9 uur en nieuwe bedieningslogica: links navigeren, rechts handelen

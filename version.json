@@ -1,13 +1,13 @@
 {
-  "version": "2.8.3",
-  "latest_version": "2.8.3",
-  "build": 37,
+  "version": "2.8.4",
+  "latest_version": "2.8.4",
+  "build": 38,
   "release_date": "2026-11-24",
-  "title": "v2.8.3: Schlankeres Gehäuse beim Wenden",
-  "release_notes": "Schlankeres Gehäuse beim Wenden: Die Goldflanke zeigt jetzt die halbe Tiefe (rund 6 mm bei 44 mm Durchmesser) – eine elegantere Silhouette statt eines Blocks. Enthält alle Neuerungen von v2.8.2: lebendiges Automatikwerk mit Peripherie-Rotor und Mikrocomputer-Platte.",
-  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.3/Zeitmeister24-Widget-macOS.zip",
+  "title": "v2.8.4: Nur noch die echte Sonne – ohne Blendlicht",
+  "release_notes": "Keine zweite, blendende Sonne mehr: Die gemalte Sonne ist aus den Himmelsbildern entfernt. Nur noch die echte Sonne zieht ihre Bahn über das Display – natürlich, warm und ohne Blendstern.",
+  "download_url": "https://github.com/SonnerStudio/SternenMeister-ZeitMeister24-Widget/releases/download/v2.8.4/Zeitmeister24-Widget-macOS.zip",
   "asset_name": "Zeitmeister24-Widget-macOS.zip",
   "min_macos_version": "14.0",
-  "sha256": "fb04424048f16f017ed431bf84c0770364545e5a52262482e47b068ecd27e9c8",
-  "notes": "Schlankeres Gehäuse beim Wenden: Die Goldflanke zeigt jetzt die halbe Tiefe (rund 6 mm bei 44 mm Durchmesser) – eine elegantere Silhouette statt eines Blocks. Enthält alle Neuerungen von v2.8.2: lebendiges Automatikwerk mit Peripherie-Rotor und Mikrocomputer-Platte."
+  "sha256": "925722d1329fea1b38bd61516faecbabe5b9c8db219bf409ab97feafb6cd7ea1",
+  "notes": "Keine zweite, blendende Sonne mehr: Die gemalte Sonne ist aus den Himmelsbildern entfernt. Nur noch die echte Sonne zieht ihre Bahn über das Display – natürlich, warm und ohne Blendstern."
 }
